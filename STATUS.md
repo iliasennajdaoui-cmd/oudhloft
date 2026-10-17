@@ -50,3 +50,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Bedrijfsgegevens (KvK 85595438, btw-nummer) ingevuld op 17 okt.
 - NIET klikken op "Pakketten", "Bekijk pakketten" of "Groeien met Pro" (kost geld).
 - Eerste 8 advertentieteksten staan klaar in marktplaats-advertenties.md.
+- Geplaatst op 17 okt: 1. Serveerplank van jeneverhout.
