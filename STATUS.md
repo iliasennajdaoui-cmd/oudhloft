@@ -46,5 +46,6 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Idee voor later: Engelse productnamen en meer producten (cadeausets, planken).
 
 ## Marktplaats
-- Nog geen account. Plan: zakelijk account onder de naam Oudhloft.
+- Zakelijk account "oudhloft" actief sinds 17 okt (inloggen met oudhloft@gmail.com).
+- NIET klikken op "Pakketten", "Bekijk pakketten" of "Groeien met Pro" (kost geld).
 - Eerste 8 advertentieteksten staan klaar in marktplaats-advertenties.md.
