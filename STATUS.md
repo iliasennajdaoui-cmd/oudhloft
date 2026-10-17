@@ -53,4 +53,5 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Advertenties lijken gratis (geen bedrag zichtbaar). Ze lopen 4 weken: rond 14 nov verlengen of opnieuw plaatsen. Resultaten (weergaven, berichten) bekijken op 24 okt.
 - Teksten staan in marktplaats-advertenties.md.
 - Bij verkoop via Marktplaats: voorraad in Shopify met de hand aanpassen.
+- Pas op voor oplichting: veel nepberichten per mail. Nooit op links klikken, alleen antwoorden in de Marktplaats-chat, nooit bankgegevens of inlogcode invullen, nooit betalen om geld te ontvangen. Nepberichten melden en blokkeren.
 - NIET op "Probeer nu gratis Pro" klikken.
