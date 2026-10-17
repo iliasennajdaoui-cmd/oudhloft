@@ -51,4 +51,5 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - NIET klikken op "Pakketten", "Bekijk pakketten" of "Groeien met Pro" (kost geld).
 - Eerste 8 advertentieteksten staan klaar in marktplaats-advertenties.md.
 - Geplaatst op 17 okt: 1. Serveerplank van jeneverhout.
-- Plan: eerst afwachten met alleen de serveerplank. Op 24 okt kijken naar weergaven, berichten en of plaatsen geld kost. Daarna de andere 7 (tekst 2, het bord, staat klaar).
+- Advertenties zijn gratis (geen bedrag zichtbaar), lopen 4 weken (serveerplank tot 14 nov). Plan: alle 8 plaatsen. Resultaten bekijken op 24 okt.
+- NIET op "Probeer nu gratis Pro" klikken.
