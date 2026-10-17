@@ -57,3 +57,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Bij verkoop via Marktplaats: voorraad in Shopify met de hand aanpassen.
 - Pas op voor oplichting: veel nepberichten per mail. Nooit op links klikken, alleen antwoorden in de Marktplaats-chat, nooit bankgegevens of inlogcode invullen, nooit betalen om geld te ontvangen. Nepberichten melden en blokkeren.
 - NIET op "Probeer nu gratis Pro" klikken.
+- Idee: Facebook Marketplace (kan alleen via persoonlijk profiel, vermelden dat je verkoopt als Oudhloft met KvK). Beslissen op 24 okt, na de resultaten van Marktplaats.
