@@ -44,3 +44,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 ## Ankorstore
 - Winkel open sinds 16 okt, 13 producten. Groothandelsprijzen bewust zo gelaten.
 - Idee voor later: Engelse productnamen en meer producten (cadeausets, planken).
+
+## Marktplaats
+- Nog geen account. Plan: zakelijk account onder de naam Oudhloft.
+- Eerste 8 advertentieteksten staan klaar in marktplaats-advertenties.md.
