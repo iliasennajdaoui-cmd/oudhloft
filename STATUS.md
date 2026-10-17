@@ -66,3 +66,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Capaciteit: ongeveer 50 tot 80 planken per maand, afhankelijk van ontwerp en houtsoort (17 okt).
 - Hij bekijkt zijn productiekosten om de prijs zo laag mogelijk te maken.
 - Wachten op: prijs per plank, verzendkosten voor ~5 planken naar NL, papieren over legale herkomst + Latijnse houtnamen (nodig voor invoer in de EU).
+- Plan: Europa = grote partij (gebundelde vracht) naar NL en zelf versturen. Amerika = dropshipping, maker verstuurt rechtstreeks vanuit Mexico.
+- Etsy: concept-listing voor de VS (ziricote-plank, Engels), met verzendprofiel vanuit Mexico (postcode 06140), verwerkingstijd 5-7 dagen. Nog invullen: afmetingen, verzendkosten, prijs (idee: gratis verzending, kosten in de prijs). Maker nog toevoegen als productiepartner.
+- Marktplaats: ziricote-plank (rood) staat erop voor €89,99.
+- Nog doen als het doorgaat: privacybeleid aanvullen (klantgegevens naar productiepartner in Mexico).
