@@ -63,4 +63,6 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 ## Mogelijke leverancier Mexico
 - Carbali Arte Diseño Y Decoración, maakt planken van tzalamhout. Staat open voor samenwerking (17 okt).
 - Voorstel gestuurd: lage vaste prijs per plank + extra per verkochte plank, eerst proefbestelling van 3-5 planken.
-- Wachten op: zijn prijs per plank, verzendkosten naar NL, capaciteit per maand, papieren over legale herkomst van het hout (nodig voor invoer in de EU).
+- Capaciteit: ongeveer 50 tot 80 planken per maand, afhankelijk van ontwerp en houtsoort (17 okt).
+- Hij bekijkt zijn productiekosten om de prijs zo laag mogelijk te maken.
+- Wachten op: prijs per plank, verzendkosten voor ~5 planken naar NL, papieren over legale herkomst + Latijnse houtnamen (nodig voor invoer in de EU).
