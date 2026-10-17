@@ -18,6 +18,9 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
   - Alle automatiseringen gaan alleen naar abonnees.
 - Bij Autopilot NIET op "Koppelen" klikken bij Meta Ads, Microsoft of Shop Campaigns.
 
+- Nieuw op 17 okt (CONCEPT, nog niet live): Serveerplank van tzalamhout met twee handgrepen, 60 x 20 cm, €129,99, gemaakt in Mexico. Nog doen: foto's toevoegen, voorraad invullen, dan op Actief zetten.
+- Let op: niet alles komt uit Marokko (tzalam komt uit Mexico). Teksten als "gemaakt in Marokko" (o.a. Facebook-bio) kloppen dan niet voor alle producten.
+
 ## Meta (Facebook en Instagram)
 - Domein oudhloft.nl geverifieerd. Toegestane domeinen: oudhloft.nl en shop.app.
 - Betaling vooraf (saldo). Het budget komt via "Saldo toevoegen".
