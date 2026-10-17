@@ -50,6 +50,6 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Bedrijfsgegevens (KvK 85595438, btw-nummer) ingevuld op 17 okt.
 - NIET klikken op "Pakketten", "Bekijk pakketten" of "Groeien met Pro" (kost geld).
 - Eerste 8 advertentieteksten staan klaar in marktplaats-advertenties.md.
-- Geplaatst op 17 okt: 1. Serveerplank van jeneverhout, 2. Bord van jeneverhout, 3. Grote salade- en fruitschaal, 4. Ronde schaal 27 cm, 5. Grote pollepel, 6. Citroenpers walnoothout, 7. Kookset.
+- Geplaatst op 17 okt: 1. Serveerplank van jeneverhout, 2. Bord van jeneverhout, 3. Grote salade- en fruitschaal, 4. Ronde schaal 27 cm, 5. Grote pollepel, 6. Citroenpers walnoothout, 7. Kookset, 8. Saladeset (alle 8 staan erop).
 - Advertenties zijn gratis (geen bedrag zichtbaar), lopen 4 weken (serveerplank tot 14 nov). Plan: alle 8 plaatsen. Resultaten bekijken op 24 okt.
 - NIET op "Probeer nu gratis Pro" klikken.
