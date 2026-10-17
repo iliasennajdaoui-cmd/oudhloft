@@ -24,6 +24,8 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Actieve campagne: "Oudhloft – Retargeting – okt". €3 per dag, websitebezoekers 30 dagen, NL en BE, catalogus-carrousel, gestart 17 okt. Resultaten bekijken op 23 okt.
 - Oude testcampagnes verwijderd. Twee "[Olijf olie uit ouzzane]"-campagnes staan uit en zijn niet te verwijderen. Laten staan en NOOIT op "Controleren en publiceren" (bovenaan) klikken.
 - Productaggen op Instagram werkt.
+- Geen tabblad "Winkel" op de Facebook-pagina (gecontroleerd 17 okt). De catalogus (44 producten via Shopify-kanaal "Facebook & Instagram") werkt wel voor advertenties en Instagram-tags. Niet nodig om dit verder uit te zoeken.
+- Bio Facebook-pagina zegt "Gratis verzending": aanpassen naar "Gratis verzending vanaf €20".
 - Nog open: btw-nummer NL004118870B54 invullen bij de betaalinstellingen.
 
 ## Etsy
