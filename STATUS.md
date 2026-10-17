@@ -59,3 +59,8 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Pas op voor oplichting: veel nepberichten per mail. Nooit op links klikken, alleen antwoorden in de Marktplaats-chat, nooit bankgegevens of inlogcode invullen, nooit betalen om geld te ontvangen. Nepberichten melden en blokkeren.
 - NIET op "Probeer nu gratis Pro" klikken.
 - Idee: Facebook Marketplace (kan alleen via persoonlijk profiel, vermelden dat je verkoopt als Oudhloft met KvK). Beslissen op 24 okt, na de resultaten van Marktplaats.
+
+## Mogelijke leverancier Mexico
+- Carbali Arte Diseño Y Decoración, maakt planken van tzalamhout. Staat open voor samenwerking (17 okt).
+- Voorstel gestuurd: lage vaste prijs per plank + extra per verkochte plank, eerst proefbestelling van 3-5 planken.
+- Wachten op: zijn prijs per plank, verzendkosten naar NL, capaciteit per maand, papieren over legale herkomst van het hout (nodig voor invoer in de EU).
