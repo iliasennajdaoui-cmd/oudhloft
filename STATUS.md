@@ -39,6 +39,10 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 ## Google
 - Merchant Center gekoppeld. Op 18 okt waren alle ~41 producten goedgekeurd (Approved), geen afgekeurd. Op 21 okt bij Performance kijken naar vertoningen en klikken.
 - Gratis vermeldingen (free listings) staan aan (gecontroleerd 18 okt). Producten nog niet zichtbaar in Google Shopping. Add-ons "Free local listings" en "Automated discounts" NIET aanzetten.
+- Search Console: ingesteld (domein oudhloft.nl). Sitemap succesvol, 53 pagina's ontdekt. Op 18 okt: 10 pagina's geïndexeerd, 9 klikken. Indexering aangevraagd voor belangrijkste collecties en cadeausets (max ~10 per dag). Op 25 okt kijken bij Indexeren › Pagina's.
+- Per ongeluk een productlink als sitemap ingediend: verwijderen in Search Console › Sitemaps.
+- Lege collectie "olijfhouten plank" (0 producten) in Shopify: verbergen of vullen.
+- Homepage-titel en metabeschrijving aangepast in Shopify › Online Store › Voorkeuren (18 okt).
 - Geen Google Ads (kost geld).
 
 ## Pinterest
