@@ -81,7 +81,7 @@ Geef deze tip door aan wie het cadeau krijgt. Hout mag niet in de vaatwasser. Wa
 
 Bestel je vóór 16:00, dan versturen we je pakket dezelfde dag met PostNL, ook in het weekend. In Nederland wordt het meestal binnen 1 tot 2 werkdagen bezorgd, in België binnen 2 tot 3 werkdagen. Verzending is gratis vanaf €20 in Nederland en vanaf €40 in België.
 
-Voor Sinterklaas (5 december) en Kerst raden we aan om uiterlijk [datum] te bestellen. Rond de feestdagen heeft PostNL het drukker dan normaal.
+Rond Sinterklaas en Kerst heeft PostNL het drukker dan normaal, dus bestel op tijd.
 
 Alle cadeaus vind je in de collectie [Cadeaus](https://oudhloft.nl/collections/cadeaus).
 
