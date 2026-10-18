@@ -42,7 +42,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Search Console: ingesteld (domein oudhloft.nl). Sitemap succesvol, 53 pagina's ontdekt. Op 18 okt: 10 pagina's geïndexeerd, 9 klikken. Indexering aangevraagd voor belangrijkste collecties en cadeausets (max ~10 per dag). Op 25 okt kijken bij Indexeren › Pagina's.
 - Per ongeluk een productlink als sitemap ingediend: verwijderen in Search Console › Sitemaps.
 - Lege collectie "olijfhouten plank" (0 producten) in Shopify: verbergen of vullen.
-- Homepage-titel en metabeschrijving aangepast in Shopify › Online Store › Voorkeuren (18 okt).
+- Homepage-titel en metabeschrijving: nieuwe tekst gemaakt op 18 okt. Controleren of die is opgeslagen in Shopify › Online Store › Voorkeuren.
 - Geen Google Ads (kost geld).
 
 ## Pinterest
