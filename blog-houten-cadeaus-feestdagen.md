@@ -39,7 +39,7 @@ De plank is ongeveer 37 cm lang. Daar passen een paar sneden brood, een stuk kaa
 
 Ken je iemand bij wie altijd wel iemand aanschuift? De serveerschaal in deze set heeft vijf vakken en is uit één stuk hout gesneden. Doe er olijven, nootjes, hummus en blokjes kaas in, en de borrel staat in één keer op tafel. Na afloop hoef je maar één schaal af te wassen.
 
-De schaal is 42,5 × 33 cm. Er zit ook een mes van walnoothout bij en een serveertang van [houtsoort].
+De schaal is 42,5 × 33 cm. Er zit ook een mes van walnoothout bij en een serveertang van olijfhout, gebogen uit één stuk.
 
 **[Bekijk de Borrelset – €79,00](https://oudhloft.nl/products/borrelset-serveerschaal-met-5-vakken-mes-en-serveertang)**
 
