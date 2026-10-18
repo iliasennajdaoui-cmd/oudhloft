@@ -34,6 +34,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Betaalkaart MasterCard ••••3059, automatische facturatie. Opwaarderen is niet nodig.
 - Nieuw op 17 okt: Opklapbare bijzettafel (jeneverhout), met VAPV-informatie en tariefnummer 940360.
 - Nieuw op 18 okt: Brunch Cadeauset (nr. 29 uit etsy-listings-deel-2), €49. Let op: boomstamplank is er maar 1, ook los verkocht.
+- Morgen (19 okt) plaatsen: Borrelset (nr. 30) en Tafelset voor twee (nr. 31). Daarna verder met nr. 17-27 (2 à 3 per dag).
 
 ## Google
 - Merchant Center gekoppeld. Op 17 okt waren 34 producten goedgekeurd, 48 werden nog beoordeeld en 0 waren afgekeurd. Controleren op 21 okt.
