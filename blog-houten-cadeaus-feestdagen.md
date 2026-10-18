@@ -1,71 +1,88 @@
-# Blogartikel: 5 houten cadeaus voor de feestdagen
+# Blogartikel: houten cadeau voor de feestdagen
 
-**SEO-titel** (max. 60 tekens):
-5 houten cadeaus voor de feestdagen | Oudhloft
+**SEO-titel** (52 tekens):
+Houten cadeau voor de feestdagen: 5 ideeën | Oudhloft
 
-**Metabeschrijving** (max. 155 tekens):
-Op zoek naar een origineel cadeau? Vijf handgemaakte houten cadeaus voor de feestdagen, van een brunchset tot een tafelset voor twee. Elk stuk uniek.
+**Metabeschrijving** (145 tekens):
+Een houten cadeau dat elke dag gebruikt wordt: vijf ideeën van €34,95 tot €104,95, plus kleine cadeaus vanaf €4,99. Met de hand gemaakt in Tanger.
 
-**Zoekwoord:** houten cadeau feestdagen
+**Zoekwoord:** houten cadeau
 
 **Uitgelichte afbeelding:** de sfeerfoto van de Brunch Cadeauset
+**Alt-tekst:** Houten cadeau: olijfhouten plank met schorsrand, brood, vijgen en een honinglepel op een linnen tafelkleed
 
 ---
 
-# 5 houten cadeaus voor de feestdagen
+# Houten cadeau voor de feestdagen: 5 ideeën
 
-Elk jaar hetzelfde: je wilt iets geven dat blijft, maar je eindigt met een cadeaubon of nog een kaars. Een houten cadeau is een mooi alternatief. Het wordt elke dag gebruikt, het gaat jaren mee en het ziet er na een tijdje alleen maar mooier uit.
+Elk jaar hetzelfde: je wilt iets geven waar iemand echt iets aan heeft, en je eindigt toch weer bij een cadeaubon of een kaars. Een houten cadeau is een goed alternatief. Een plank, een schaal of een lepel wordt elke dag gebruikt, en met een beetje onderhoud gaat hij jaren mee.
 
-Al onze producten worden met de hand gemaakt door Othman, onze houtbewerker in Tanger. Hij werkt met jeneverbeshout, walnoothout, olijfhout en citroenhout. Omdat elk stuk uit echt hout komt, is geen enkel cadeau hetzelfde. Hieronder vind je vijf cadeaus die we zelf graag zouden krijgen.
+Alles hieronder is met de hand gemaakt door Othman, onze houtbewerker in Tanger. Hij werkt met jeneverhout, walnoothout, olijfhout, amandelhout en citroenhout. Omdat elk stuk uit een echt stuk hout komt, ziet het cadeau dat je krijgt er net iets anders uit dan op de foto.
 
-## 1. Voor wie houdt van een uitgebreid ontbijt: de Brunch Cadeauset
+We hebben de cadeaus ingedeeld per persoon. Zo zie je snel wat past bij wie je in gedachten hebt:
 
-Zondagochtend, verse broodjes, een pot honing op tafel. Daar hoort deze set bij. Je krijgt een boomstamplank van olijfhout met de schors nog aan de rand, een honinglepel van jeneverbeshout en een smeermes van walnoothout.
+- Iemand die van een lang ontbijt houdt: **Brunch Cadeauset**, €44,95
+- Iemand bij wie altijd mensen aanschuiven: **Borrelset**, €79,00
+- Een stel, je ouders of een nieuw huis: **Tafelset voor twee**, €104,95
+- Iemand die graag kookt: **Kookset**, €34,95
+- Wie het kerstdiner verzorgt: **Saladeset**, €59,95
 
-De plank is ongeveer 37 cm lang, net groot genoeg voor brood, kaas en een paar vijgen. Dankzij de ribbels aan de honinglepel blijft de honing hangen tot boven je yoghurt.
+## 1. Voor wie van een lang ontbijt houdt: de Brunch Cadeauset
 
-**[Bekijk de Brunch Cadeauset – € 44,95](https://oudhloft.nl/products/brunch-cadeauset-boomstamplank-honinglepel-en-mes)**
+Zondagochtend, vers brood, een pot honing op tafel. In deze set zit een plank van olijfhout waar de schors nog aan de rand zit, een honinglepel van jeneverhout en een mes van walnoothout om boter of brie mee te smeren.
 
-## 2. Voor de gastvrouw of gastheer: de Borrelset
+De plank is ongeveer 37 cm lang. Daar passen een paar sneden brood, een stuk kaas en wat vijgen op. Door de ribbels in de honinglepel blijft de honing eraan hangen tot je boven je yoghurt of boterham bent.
 
-Ken je iemand die altijd mensen over de vloer heeft? Dan is dit het cadeau. De serveerschaal heeft vijf vakken, met de hand uitgesneden uit één stuk hout. Vul ze met olijven, nootjes, hummus en blokjes kaas, en je borrel staat in één keer op tafel.
+**[Bekijk de Brunch Cadeauset – €44,95](https://oudhloft.nl/products/brunch-cadeauset-boomstamplank-honinglepel-en-mes)**
 
-In de set zitten ook een smeermes van walnoothout en een serveertang van olijfhout, gebogen uit één stuk. De schaal meet 42,5 × 33 cm.
+## 2. Voor wie vaak mensen over de vloer heeft: de Borrelset
 
-**[Bekijk de Borrelset – € 79,00](https://oudhloft.nl/products/borrelset-serveerschaal-met-5-vakken-mes-en-serveertang)**
+Ken je iemand bij wie altijd wel iemand aanschuift? De serveerschaal in deze set heeft vijf vakken en is uit één stuk hout gesneden. Doe er olijven, nootjes, hummus en blokjes kaas in, en de borrel staat in één keer op tafel. Na afloop hoef je maar één schaal af te wassen.
+
+De schaal is 42,5 × 33 cm. Er zit ook een mes van walnoothout bij en een serveertang van [houtsoort].
+
+**[Bekijk de Borrelset – €79,00](https://oudhloft.nl/products/borrelset-serveerschaal-met-5-vakken-mes-en-serveertang)**
 
 ## 3. Voor een stel of een nieuw huis: de Tafelset voor twee
 
-Gaan je vrienden samenwonen, of zoek je een cadeau voor je ouders? Deze tafelset is gemaakt om samen aan tafel te zitten. Je krijgt twee borden van jeneverbeshout, een lange serveerplank van 61 cm, twee lepels van walnoothout en een citroenpers van citroenhout.
+Gaan vrienden samenwonen, of zoek je iets voor je ouders? In deze set zit alles om met z'n tweeën te eten: twee borden van jeneverhout (20 cm), een serveerplank van 61 cm, twee lepels van walnoothout en een citroenpers van citroenhout.
 
-Drie houtsoorten in één set: de warme honingkleur van jeneverbeshout, het donkere walnoothout en het lichte citroenhout. Op een gedekte tafel valt dat meteen op.
+Er zitten drie houtsoorten in: het honingkleurige jeneverhout, het donkere walnoothout en het lichtere citroenhout. Op een gedekte tafel zie je dat verschil meteen.
 
-**[Bekijk de Tafelset voor twee – € 104,95](https://oudhloft.nl/products/tafelset-voor-twee-2-borden-serveerplank-2-lepels-en-citroenpers)**
+**[Bekijk de Tafelset voor twee – €104,95](https://oudhloft.nl/products/tafelset-voor-twee-2-borden-serveerplank-2-lepels-en-citroenpers)**
 
 ## 4. Voor wie graag kookt: de Kookset
 
-Een houten lepel is het meest gebruikte stuk gereedschap in de keuken, en toch koopt bijna niemand er zelf een mooie. Deze set heeft er drie: een grote pollepel van 42 cm voor de soeppan of de tajine, een soeplepel van amandelhout en een lepel van walnoothout.
+Een mooie houten lepel koop je zelden voor jezelf. Daarom is het een fijn cadeau. In deze set zitten er drie: een grote pollepel van jeneverhout van 42 cm voor de soeppan of de tajine, een soeplepel van amandelhout en een lepel van walnoothout.
 
-Hout krast je pannen niet en wordt niet heet aan de steel. Elke lepel is uit één stuk hout gemaakt, zonder lijm of naden.
+Een houten lepel krast je pannen niet, en de steel wordt niet heet als je roert. Elke lepel is uit één stuk hout gemaakt, dus er zitten geen naden in waar etensresten in blijven hangen.
 
-**[Bekijk de Kookset – € 34,95](https://oudhloft.nl/products/kookset-pollepel-soeplepel-lepel)**
+**[Bekijk de Kookset – €34,95](https://oudhloft.nl/products/kookset-pollepel-soeplepel-lepel)**
 
 ## 5. Voor bij het kerstdiner: de Saladeset
 
-Een salade hoort bij elk feestdiner, en in een houten schaal ziet hij er meteen beter uit. Deze set bestaat uit een saladeschaal, gedraaid uit één stuk jeneverbeshout, met een bijpassende lepel en vork van walnoothout.
+Op een feesttafel staat bijna altijd een salade. In een houten schaal ziet die er meteen feestelijker uit. De schaal in deze set is gedraaid uit één stuk jeneverhout. De lepel en vork zijn van walnoothout.
 
-Na de feestdagen gebruik je de schaal gewoon voor fruit op het aanrecht. Zo staat je cadeau het hele jaar op tafel.
+Na de feestdagen zet je de schaal op het aanrecht voor fruit. Zo wordt hij het hele jaar gebruikt.
 
-**[Bekijk de Saladeset – € 59,95](https://oudhloft.nl/products/saladeset-saladeschaal-lepel-vork)**
+**[Bekijk de Saladeset – €59,95](https://oudhloft.nl/products/saladeset-saladeschaal-lepel-vork)**
 
-## Liever een kleiner cadeau?
+## Een klein houten cadeau, voor de schoen of de collega's
 
-Zoek je iets voor de schoen, als extraatje of voor de collega's? Ook dan hoeft het niet saai te zijn. Een honinglepel van jeneverbeshout kost € 4,99, een smeermes van walnoothout € 9,99 en een citroenpers van walnoothout € 14,99. Alles onder de € 25 vind je in onze collectie [Cadeaus onder €25](https://oudhloft.nl/collections/cadeaus-onder-25).
+Voor Sinterklaas, als extraatje bij een ander cadeau of voor je collega's hoef je niet veel uit te geven. Een honinglepel kost €4,99, een mes van walnoothout €9,99 en een citroenpers van walnoothout €14,99. Alles onder de €25 staat bij elkaar in de collectie [Cadeaus onder €25](https://oudhloft.nl/collections/cadeaus-onder-25).
+
+Goed om te weten: in Nederland is verzending gratis vanaf €20. Bestel je alleen een honinglepel, dan betaal je €6,95 verzendkosten. Met een paar kleine cadeaus samen kom je al snel boven de €20.
 
 ## Zo blijft een houten cadeau mooi
 
-Geef deze tip gerust door aan wie het cadeau krijgt. Hout gaat niet in de vaatwasser. Was het af met warm water en een zachte spons, en droog het meteen af. Wrijf het af en toe in met een beetje voedselveilige olie. Dan blijft de kleur mooi en gaat het jarenlang mee.
+Geef deze tip door aan wie het cadeau krijgt. Hout mag niet in de vaatwasser. Was het met de hand af met warm water en een zachte spons, en droog het meteen af. Wrijf het om de drie maanden in met een beetje voedselveilige minerale olie. Zo blijft de kleur mooi en droogt het hout niet uit.
 
-## Bestel op tijd
+## Wanneer moet je bestellen?
 
-Elk stuk is uniek en van veel producten hebben we er maar een paar. Zie je iets dat je mooi vindt, wacht dan niet te lang. In Nederland is verzending gratis vanaf € 20, in België vanaf € 40. Bekijk al onze cadeaus in de collectie [Cadeaus](https://oudhloft.nl/collections/cadeaus).
+Bestel je vóór 16:00, dan versturen we je pakket dezelfde dag met PostNL, ook in het weekend. In Nederland wordt het meestal binnen 1 tot 2 werkdagen bezorgd, in België binnen 2 tot 3 werkdagen. Verzending is gratis vanaf €20 in Nederland en vanaf €40 in België.
+
+Voor Sinterklaas (5 december) en Kerst raden we aan om uiterlijk [datum] te bestellen. Rond de feestdagen heeft PostNL het drukker dan normaal.
+
+Alle cadeaus vind je in de collectie [Cadeaus](https://oudhloft.nl/collections/cadeaus).
+
+Welk cadeau zou jij zelf het liefst krijgen?
