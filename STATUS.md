@@ -43,7 +43,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Per ongeluk een productlink als sitemap ingediend: verwijderen in Search Console › Sitemaps.
 - Lege collectie "olijfhouten plank" (0 producten) in Shopify: verbergen of vullen.
 - Homepage-titel en metabeschrijving: nieuwe tekst gemaakt op 18 okt. Controleren of die is opgeslagen in Shopify › Online Store › Voorkeuren.
-- Blogartikel "Houten cadeau voor de feestdagen: 5 ideeën" live sinds 18 okt (oudhloft.nl/blogs/nieuws/houten-cadeau-feestdagen). "Blog" staat in de footer (kolom Informatie). Bij 3+ artikelen naar het hoofdmenu verplaatsen. Nog doen: indexering aanvragen in Search Console.
+- Blogartikel "Houten cadeau voor de feestdagen: 5 ideeën" live sinds 18 okt (oudhloft.nl/blogs/nieuws/houten-cadeau-feestdagen). "Blog" staat in de footer (kolom Informatie) en linkt nu direct naar dit artikel. Bij een tweede artikel de link terugzetten naar het blogoverzicht (/blogs/nieuws); bij 3+ artikelen naar het hoofdmenu. Nog doen: indexering aanvragen in Search Console.
 - Geen Google Ads (kost geld).
 
 ## Pinterest
