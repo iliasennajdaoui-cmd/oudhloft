@@ -33,6 +33,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Etsy Ads aan sinds 17 okt, $3 per dag, alle listings. Cijfers bekijken op 19 okt.
 - Betaalkaart MasterCard ••••3059, automatische facturatie. Opwaarderen is niet nodig.
 - Nieuw op 17 okt: Opklapbare bijzettafel (jeneverhout), met VAPV-informatie en tariefnummer 940360.
+- Nieuw op 18 okt: Brunch Cadeauset (nr. 29 uit etsy-listings-deel-2), €49. Let op: boomstamplank is er maar 1, ook los verkocht.
 
 ## Google
 - Merchant Center gekoppeld. Op 17 okt waren 34 producten goedgekeurd, 48 werden nog beoordeeld en 0 waren afgekeurd. Controleren op 21 okt.
