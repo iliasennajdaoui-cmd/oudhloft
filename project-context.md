@@ -52,3 +52,7 @@
 - Facebook-bio aanpassen: "Gratis verzending" wordt "Gratis verzending vanaf €20". "Met de hand gemaakt in Marokko" klopt niet meer voor alle producten.
 - Btw-nummer invullen bij de betaalinstellingen van Meta.
 - Prijs van de pollepel klopt niet: €19,99 op Marktplaats, €16,99 in de webshop.
+
+## Blog
+- Eerste artikel: "Houten cadeau voor de feestdagen: 5 ideeën" (oudhloft.nl/blogs/nieuws/houten-cadeau-feestdagen), live sinds 18 okt.
+- De link "Blog" in de footer (kolom Informatie) gaat nu direct naar dit artikel. **Bij een tweede artikel: de link terugzetten naar het blogoverzicht /blogs/nieuws.** Bij 3 of meer artikelen "Blog" ook in het hoofdmenu zetten.
