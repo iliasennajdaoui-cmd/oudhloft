@@ -37,7 +37,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Morgen (19 okt) plaatsen: Borrelset (nr. 30) en Tafelset voor twee (nr. 31). Daarna verder met nr. 17-27 (2 à 3 per dag).
 
 ## Google
-- Merchant Center gekoppeld. Op 17 okt waren 34 producten goedgekeurd, 48 werden nog beoordeeld en 0 waren afgekeurd. Controleren op 21 okt.
+- Merchant Center gekoppeld. Op 18 okt waren alle ~41 producten goedgekeurd (Approved), geen afgekeurd. Op 21 okt bij Performance kijken naar vertoningen en klikken.
 - Gratis vermeldingen (free listings) staan aan (gecontroleerd 18 okt). Producten nog niet zichtbaar in Google Shopping. Add-ons "Free local listings" en "Automated discounts" NIET aanzetten.
 - Geen Google Ads (kost geld).
 
