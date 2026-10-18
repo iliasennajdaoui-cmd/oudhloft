@@ -38,6 +38,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 
 ## Google
 - Merchant Center gekoppeld. Op 17 okt waren 34 producten goedgekeurd, 48 werden nog beoordeeld en 0 waren afgekeurd. Controleren op 21 okt.
+- Gratis vermeldingen (free listings) staan aan (gecontroleerd 18 okt). Producten nog niet zichtbaar in Google Shopping. Add-ons "Free local listings" en "Automated discounts" NIET aanzetten.
 - Geen Google Ads (kost geld).
 
 ## Pinterest
