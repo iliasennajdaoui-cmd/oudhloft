@@ -34,7 +34,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Betaalkaart MasterCard ••••3059, automatische facturatie. Opwaarderen is niet nodig.
 - Nieuw op 17 okt: Opklapbare bijzettafel (jeneverhout), met VAPV-informatie en tariefnummer 940360.
 - Nieuw op 18 okt: Brunch Cadeauset (nr. 29 uit etsy-listings-deel-2), €49. Let op: boomstamplank is er maar 1, ook los verkocht.
-- Geplaatst 19 okt: Borrelset (nr. 30), €89. Let op: foto van de tang bij Borrelset in Shopify heet "serveertang-olijfhout" (mogelijk verkeerde tang). Volgende: Tafelset voor twee (nr. 31). Daarna verder met nr. 17-27 (2 à 3 per dag).
+- Geplaatst 19 okt: Borrelset (nr. 30), €89. Let op: foto van de tang bij Borrelset in Shopify heet "serveertang-olijfhout" (mogelijk verkeerde tang). Ritme: 1 listing per dag op Etsy. Morgen (20 okt): Tafelset voor twee (nr. 31), daarna nr. 17-27.
 
 ## Google
 - Merchant Center: ACCOUNTPROBLEEM "Misrepresentation" (gezien 19 okt). Alle 41 producten "Not approved", niet zichtbaar in NL en BE. NIET meteen "I disagree"/review aanvragen. Eerst repareren: contactpagina (gevuld 19 okt ✓), bedrijfsgegevens + telefoon in Merchant Center, verzendinstellingen (✓ 2-4 dagen, 19 okt) en retourbeleid (✓ toegevoegd 19 okt: 14 dagen, per post, klant betaalt), footer "Klantenservice" (✓ 19 okt), claim "gravure" op Zakelijk-pagina checken, identiteit verifiëren. Daarna pas review aanvragen.
