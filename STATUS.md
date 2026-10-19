@@ -4,6 +4,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 
 ## Checklist
 - Dagelijkse checklist: https://claude.ai/artifact/777x8ooxMYWenzR5j5D7Uj (vastgepind in de zijbalk op claude.ai)
+- Contentplanning Instagram/Facebook 20 okt t/m 2 nov: contentplanning-20okt-2nov.md (posts ma/wo/vr 19-21 uur, bijna dagelijks een story). In de checklist bijgewerkt: post-taak en story-taak verwijzen naar de planning, nieuwe dagtaak "Reageren op andere accounts" (10 min).
 
 ## Shopify
 - Live thema: "Oudhloft - feestdagen". De metatag voor Meta-domeinverificatie staat in layout/theme.liquid. Niet weghalen.

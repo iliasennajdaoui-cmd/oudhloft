@@ -1,6 +1,6 @@
 # Contentplanning Instagram & Facebook – 20 okt t/m 2 nov
 
-**Ritme:** 3 berichten per week (di, do, za), bijna elke dag een story. Zet bij elk bericht "Ook delen op Facebook" aan.
+**Ritme:** 3 berichten per week (ma, wo, vr, tussen 19:00 en 21:00, zoals in je dagtaken-checklist), bijna elke dag een story. Zet bij elk bericht "Ook delen op Facebook" aan.
 **Pinterest:** gewoon doorgaan met 3 pins per dag.
 **Foto's:** uit Shopify (zie de links per product in de webshop). Heb je eigen foto's of video's van Othman, gebruik die dan in plaats daarvan.
 
@@ -13,7 +13,10 @@
 
 ## Week 1
 
-### Dinsdag 20 okt – Reel: "Even voorstellen"
+### Dinsdag 20 okt – alleen story
+Foto van de honinglepel + vraagsticker: "Wat eet jij als ontbijt op zondag? 🍯"
+
+### Woensdag 21 okt – Reel: "Even voorstellen"
 **Foto's:** 4 à 5 producten achter elkaar (kom van walnoothout, serveerplank, lepels, citroenpers, brunchset).
 **Tekst op de video:** "Handgemaakt in Tanger 🌿" → "Elk stuk uniek"
 **Bijschrift:**
@@ -28,10 +31,10 @@ Volg ons voor nieuwe stukken, tips en een kijkje achter de schermen.
 ```
 **Story:** deel de Reel in je story met de tekst "Nieuw hier? 👋" en een poll: "Kende je Oudhloft al?" Ja / Nee.
 
-### Woensdag 21 okt – alleen story
-Foto van de honinglepel + vraagsticker: "Wat eet jij als ontbijt op zondag? 🍯"
+### Donderdag 22 okt – alleen story
+Productsticker van de Kookset + tekst: "Cadeau voor iemand die graag kookt? 👨‍🍳"
 
-### Donderdag 22 okt – Foto: tip onderhoud
+### Vrijdag 23 okt – Foto: tip onderhoud
 **Foto:** de serveerplank van jeneverhout.
 **Bijschrift:**
 ```
@@ -48,10 +51,10 @@ Bewaar dit bericht voor later 📌
 ```
 **Story:** deel het bericht met de tekst "Handig om te bewaren!"
 
-### Vrijdag 23 okt – alleen story
-Productsticker van de Kookset + tekst: "Cadeau voor iemand die graag kookt? 👨‍🍳"
+### Zondag 25 okt – alleen story
+Sfeerfoto van de brunchset + tekst: "Zondagochtend ☕"
 
-### Zaterdag 24 okt – Carrousel: cadeau-ideeën
+### Maandag 26 okt – Carrousel: cadeau-ideeën
 **Foto's (4):** Brunch Cadeauset, Borrelset, Kookset, Saladeset. Tag op elke foto het product (productlabel).
 **Bijschrift:**
 ```
@@ -69,14 +72,14 @@ Swipe door en tag iemand die dit verdient 👇
 ```
 **Story:** deel het bericht met een poll: "Welk cadeau zou jij willen?" Brunchset / Borrelset.
 
-### Zondag 25 okt – alleen story
-Sfeerfoto van de brunchset + tekst: "Zondagochtend ☕"
-
 ---
 
 ## Week 2
 
-### Dinsdag 27 okt – Reel: "Elk stuk is uniek"
+### Dinsdag 27 okt – alleen story
+Foto van de citroenpers + quiz: "Waar is deze citroenpers van gemaakt?" Citroenhout ✅ / Bamboe.
+
+### Woensdag 28 okt – Reel: "Elk stuk is uniek"
 **Foto's:** 3 à 4 close-ups van de nerf (kom walnoothout, boomstamplank met schors, ronde schaal, bord walnoothout breed).
 **Tekst op de video:** "Geen twee hetzelfde" → "Zo groeide de boom"
 **Bijschrift:**
@@ -91,10 +94,10 @@ Welke vind jij het mooist? 1, 2, 3 of 4?
 ```
 **Story:** deel de Reel met een vraagsticker: "Welke houtsoort vind jij het mooist?"
 
-### Woensdag 28 okt – alleen story
-Foto van de citroenpers + quiz: "Waar is deze citroenpers van gemaakt?" Citroenhout ✅ / Bamboe.
+### Donderdag 29 okt – alleen story
+Link naar het blog: "5 houten cadeaus voor de feestdagen" met linksticker naar oudhloft.nl/blogs/nieuws/houten-cadeau-feestdagen
 
-### Donderdag 29 okt – Foto: het verhaal achter Oudhloft
+### Vrijdag 30 okt – Foto: het verhaal achter Oudhloft
 **Foto:** sfeerfoto van de tafelset voor twee, of een foto uit Tanger als je die hebt.
 **Bijschrift:**
 ```
@@ -108,10 +111,12 @@ Wij brengen zijn werk naar Nederland en betalen hem een eerlijke prijs. Zo blijf
 ```
 **Story:** deel het bericht met de tekst "Ons verhaal ❤️"
 
-### Vrijdag 30 okt – alleen story
-Link naar het blog: "5 houten cadeaus voor de feestdagen" met linksticker naar oudhloft.nl/blogs/nieuws/houten-cadeau-feestdagen
+### Zaterdag 31 okt – alleen story
+Poll: "Wat wil je volgende week zien?" Nieuwe producten / Tips.
 
-### Zaterdag 31 okt – Reel: "Van tafel tot cadeau"
+---
+
+### Maandag 2 nov – Reel: "Van tafel tot cadeau"
 **Foto's:** tafelset voor twee (sfeerfoto's), serveerplank 61 cm, borden, lepels.
 **Tekst op de video:** "Samen aan tafel" → "Tafelset voor twee"
 **Bijschrift:**
@@ -125,9 +130,6 @@ Link in bio 🔗
 #oudhloft #tafelset #houtenborden #cadeautip #housewarming #trouwcadeau #handgemaakt #handmade
 ```
 **Story:** productsticker van de Tafelset voor twee.
-
-### Zondag 1 nov – alleen story
-Poll: "Wat wil je volgende week zien?" Nieuwe producten / Tips.
 
 ---
 
