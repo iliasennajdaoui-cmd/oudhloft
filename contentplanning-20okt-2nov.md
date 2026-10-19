@@ -51,6 +51,9 @@ Bewaar dit bericht voor later 📌
 ```
 **Story:** deel het bericht met de tekst "Handig om te bewaren!"
 
+### Zaterdag 24 okt – alleen story
+Foto van de boomstamplank met schorsrand + tekst: "Weekend = borrelen 🧀" en een productsticker van de boomstamplank.
+
 ### Zondag 25 okt – alleen story
 Sfeerfoto van de brunchset + tekst: "Zondagochtend ☕"
 
@@ -115,6 +118,9 @@ Wij brengen zijn werk naar Nederland en betalen hem een eerlijke prijs. Zo blijf
 Poll: "Wat wil je volgende week zien?" Nieuwe producten / Tips.
 
 ---
+
+### Zondag 1 nov – alleen story
+Foto van de soep- en yoghurtkom + vraagsticker: "Welk product wil je volgende week zien?"
 
 ### Maandag 2 nov – Reel: "Van tafel tot cadeau"
 **Foto's:** tafelset voor twee (sfeerfoto's), serveerplank 61 cm, borden, lepels.
