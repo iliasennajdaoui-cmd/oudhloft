@@ -18,6 +18,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
   - Welkomstmail
   - Alle automatiseringen gaan alleen naar abonnees.
 - Bij Autopilot NIET op "Koppelen" klikken bij Meta Ads, Microsoft of Shop Campaigns.
+- Collectie "Cadeaus onder €25" heeft sinds 19 okt een afbeelding (banner toonde eerst het Shopify-voorbeeldplaatje). Nog zonder afbeelding: Pollepels, olijfhouten lepel, badplank, olijfhouten plank (0 producten, verbergen of weghalen). Nog checken of deze in een menu staan.
 
 ## Meta (Facebook en Instagram)
 - Domein oudhloft.nl geverifieerd. Toegestane domeinen: oudhloft.nl en shop.app.
@@ -28,6 +29,8 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Geen tabblad "Winkel" op de Facebook-pagina (gecontroleerd 17 okt), wel op Instagram. De catalogus (44 producten via Shopify-kanaal "Facebook & Instagram") werkt wel voor advertenties en Instagram-tags. Niet nodig om dit verder uit te zoeken.
 - Bio Facebook-pagina zegt "Gratis verzending": aanpassen naar "Gratis verzending vanaf €20".
 - Nog open: btw-nummer NL004118870B54 invullen bij de betaalinstellingen.
+- Canva-collage van het assortiment gemaakt (19 okt): kom, lepel, serveertang + logo. Voor Pinterest of een carrousel; voor een FB-omslag een apart ontwerp "Facebook-omslag" maken (niet "Formaat wijzigen", dat is Pro).
+- FB-groepen: altijd eerst de regels lezen. Kookgroep (19 okt) verbiedt commerciële posts en ongevraagde PB's, dus daar niet plaatsen. Zoeken naar groepen met promotie toegestaan of een promotiedag. Link pas geven als iemand erom vraagt. Max 2 à 3 groepen per dag.
 
 ## Etsy
 - Etsy Ads aan sinds 17 okt, $3 per dag, alle listings. Stand 19 okt (2,5 dag): 501 weergaven, 10 kliks (2%), 0 bestellingen, $4,88 uitgegeven (~$0,49 per klik). Laten lopen, opnieuw bekijken op 31 okt. Meeste weergaven: opklapbare bijzettafel (100). LET OP: ziricote-plank (Mexico, VS) staat LIVE en in Etsy Ads, terwijl prijs/afspraken met maker nog niet rond zijn. Nog beslissen: zo laten of deactiveren + advertentie uit (19 okt overgeslagen).
