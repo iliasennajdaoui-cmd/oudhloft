@@ -30,7 +30,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Nog open: btw-nummer NL004118870B54 invullen bij de betaalinstellingen.
 
 ## Etsy
-- Etsy Ads aan sinds 17 okt, $3 per dag, alle listings. Stand 19 okt (2,5 dag): 501 weergaven, 10 kliks (2%), 0 bestellingen, $4,88 uitgegeven (~$0,49 per klik). Laten lopen, opnieuw bekijken op 31 okt.
+- Etsy Ads aan sinds 17 okt, $3 per dag, alle listings. Stand 19 okt (2,5 dag): 501 weergaven, 10 kliks (2%), 0 bestellingen, $4,88 uitgegeven (~$0,49 per klik). Laten lopen, opnieuw bekijken op 31 okt. Meeste weergaven: opklapbare bijzettafel (100). LET OP: ziricote-plank (Mexico, VS) staat LIVE en in Etsy Ads, terwijl prijs/afspraken met maker nog niet rond zijn. Nog beslissen: zo laten of deactiveren + advertentie uit (19 okt overgeslagen).
 - Betaalkaart MasterCard ••••3059, automatische facturatie. Opwaarderen is niet nodig.
 - Nieuw op 17 okt: Opklapbare bijzettafel (jeneverhout), met VAPV-informatie en tariefnummer 940360.
 - Nieuw op 18 okt: Brunch Cadeauset (nr. 29 uit etsy-listings-deel-2), €49. Let op: boomstamplank is er maar 1, ook los verkocht.
