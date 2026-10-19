@@ -52,7 +52,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Catalogus goedgekeurd: 41 producten.
 - Profiel klaar: logo, naam, bio en oudhloft.nl.
 - Vier borden: Houten keukengerei, Serveerplanken & borrelplanken, Houten kommen & borden, Cadeau-ideeën voor de feestdagen.
-- Elke dag 3 producten bewaren. Nog geen advertenties.
+- Elke dag 3 producten bewaren (1 foto per pin, met titel, beschrijving, link en getagde onderwerpen). Al gepind: brunchset, mes, boomstamplank, honinglepel (18 okt), borrelset, kookset, ronde schaal 27 cm (19 okt). Nog geen advertenties.
 
 ## Ankorstore
 - Winkel open sinds 16 okt, 13 producten. Groothandelsprijzen bewust zo gelaten.
