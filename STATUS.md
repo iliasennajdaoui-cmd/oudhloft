@@ -18,7 +18,6 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
   - Alle automatiseringen gaan alleen naar abonnees.
 - Bij Autopilot NIET op "Koppelen" klikken bij Meta Ads, Microsoft of Shop Campaigns.
 
-
 ## Meta (Facebook en Instagram)
 - Domein oudhloft.nl geverifieerd. Toegestane domeinen: oudhloft.nl en shop.app.
 - Betaling vooraf (saldo). Het budget komt via "Saldo toevoegen".
@@ -78,6 +77,6 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Hij bekijkt zijn productiekosten om de prijs zo laag mogelijk te maken.
 - Wachten op: prijs per plank, verzendkosten voor ~5 planken naar NL, papieren over legale herkomst + Latijnse houtnamen (nodig voor invoer in de EU).
 - Plan: Europa = grote partij (gebundelde vracht) naar NL en zelf versturen. Amerika = dropshipping, maker verstuurt rechtstreeks vanuit Mexico.
-- Etsy: concept-listing voor de VS (ziricote-plank, Engels), met verzendprofiel vanuit Mexico (postcode 06140), verwerkingstijd 5-7 dagen. Nog invullen: afmetingen, verzendkosten, prijs (idee: gratis verzending, kosten in de prijs). Maker nog toevoegen als productiepartner.
+- Etsy: listing voor de VS (ziricote-plank, Engels), staat inmiddels LIVE (gezien 19 okt), met verzendprofiel vanuit Mexico (postcode 06140), verwerkingstijd 5-7 dagen. Nog invullen: afmetingen, verzendkosten, prijs (idee: gratis verzending, kosten in de prijs). Maker nog toevoegen als productiepartner.
 - Marktplaats: ziricote-plank (rood) staat erop voor €89,99.
 - Nog doen als het doorgaat: privacybeleid aanvullen (klantgegevens naar productiepartner in Mexico).
