@@ -37,7 +37,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Morgen (19 okt) plaatsen: Borrelset (nr. 30) en Tafelset voor twee (nr. 31). Daarna verder met nr. 17-27 (2 à 3 per dag).
 
 ## Google
-- Merchant Center: ACCOUNTPROBLEEM "Misrepresentation" (gezien 19 okt). Alle 41 producten "Not approved", niet zichtbaar in NL en BE. NIET meteen "I disagree"/review aanvragen. Eerst repareren: contactpagina (gevuld 19 okt ✓), bedrijfsgegevens + telefoon in Merchant Center, verzend- en retourinstellingen gelijk aan de site, footer "Openingstijden" → "Klantenservice", claim "gravure" op Zakelijk-pagina checken, identiteit verifiëren. Daarna pas review aanvragen.
+- Merchant Center: ACCOUNTPROBLEEM "Misrepresentation" (gezien 19 okt). Alle 41 producten "Not approved", niet zichtbaar in NL en BE. NIET meteen "I disagree"/review aanvragen. Eerst repareren: contactpagina (gevuld 19 okt ✓), bedrijfsgegevens + telefoon in Merchant Center, verzend- en retourinstellingen gelijk aan de site, footer "Klantenservice" (✓ 19 okt), claim "gravure" op Zakelijk-pagina checken, identiteit verifiëren. Daarna pas review aanvragen.
 - Gratis vermeldingen (free listings) staan aan (gecontroleerd 18 okt). Producten nog niet zichtbaar in Google Shopping. Add-ons "Free local listings" en "Automated discounts" NIET aanzetten.
 - Search Console: ingesteld (domein oudhloft.nl). Sitemap succesvol, 53 pagina's ontdekt. Op 18 okt: 10 pagina's geïndexeerd, 9 klikken. Indexering aangevraagd voor belangrijkste collecties en cadeausets (max ~10 per dag). Op 25 okt kijken bij Indexeren › Pagina's.
 - Per ongeluk een productlink als sitemap ingediend: verwijderen in Search Console › Sitemaps.
