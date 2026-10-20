@@ -37,7 +37,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Betaalkaart MasterCard ••••3059, automatische facturatie. Opwaarderen is niet nodig.
 - Nieuw op 17 okt: Opklapbare bijzettafel (jeneverhout), met VAPV-informatie en tariefnummer 940360.
 - Nieuw op 18 okt: Brunch Cadeauset (nr. 29 uit etsy-listings-deel-2), €49. Let op: boomstamplank is er maar 1, ook los verkocht.
-- Geplaatst 19 okt: Borrelset (nr. 30), €89. Let op: foto van de tang bij Borrelset in Shopify heet "serveertang-olijfhout" (mogelijk verkeerde tang). Ritme: 1 listing per dag op Etsy. Morgen (20 okt): Tafelset voor twee (nr. 31), daarna nr. 17-27.
+- Geplaatst 19 okt: Borrelset (nr. 30), €89. Let op: foto van de tang bij Borrelset in Shopify heet "serveertang-olijfhout" (mogelijk verkeerde tang). Ritme: 1 listing per dag op Etsy. Geplaatst 20 okt: Tafelset voor twee (nr. 31), €115. Volgende: nr. 17-27, 1 per dag.
 - Fabrikant/veiligheid (VAPV) bij Marokkaanse producten: opgeslagen fabrikant uit de lijst kiezen. EU-verantwoordelijke: Oudhloft, Descartesstraat 59, 1064 ZB Amsterdam, info@oudhloft.nl. Veiligheidstekst: "Natural wood, suitable for food contact. Not dishwasher or microwave safe. Hand wash only and dry immediately. Oil regularly with food-safe oil. Check the wood regularly for splinters or cracks."
 
 ## Google
@@ -58,6 +58,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Profiel klaar: logo, naam, bio en oudhloft.nl.
 - Vier borden: Houten keukengerei, Serveerplanken & borrelplanken, Houten kommen & borden, Cadeau-ideeën voor de feestdagen.
 - Elke dag 3 producten bewaren (1 foto per pin, met titel, beschrijving, link en getagde onderwerpen). Al gepind: brunchset, mes, boomstamplank, honinglepel (18 okt), borrelset, kookset, ronde schaal 27 cm (19 okt). Nog geen advertenties.
+- 20 okt gepind: Tafelset voor twee, Saladeset. Citroenpers walnoothout nog doen (later vandaag). Bij foto's met bestandsnaam "hf_" (AI-foto's): "Markeren als door AI aangepast" aanzetten.
 
 ## Ankorstore
 - Winkel open sinds 16 okt, 13 producten. Groothandelsprijzen bewust zo gelaten.
