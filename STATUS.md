@@ -33,7 +33,8 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - FB-groepen: altijd eerst de regels lezen. Kookgroep (19 okt) verbiedt commerciële posts en ongevraagde PB's, dus daar niet plaatsen. Zoeken naar groepen met promotie toegestaan of een promotiedag. Link pas geven als iemand erom vraagt. Max 2 à 3 groepen per dag.
 
 ## TikTok
-- Besloten 20 okt: TikTok-bedrijfsaccount "oudhloft" aanmaken (info@oudhloft.nl, categorie Huis en tuin of Winkelen). Bio: "Handgemaakt houten keukengerei 🌿 Gemaakt in Tanger, verstuurd vanuit Amsterdam". Elke Reel ook op TikTok (ma/wo/vr). Niet "Promoten", nog geen TikTok Shop.
+- Account @oudhloft aangemaakt op 20 okt. Nog doen: bedrijfsaccount, bio, website, icoon in Shopify-footer. TikTok Shop (producten taggen) pas later, verificatie via de broer (zelfde als Google), alleen commissie, niets vooraf betalen.
+- Besloten 20 okt: TikTok-bedrijfsaccount "oudhloft" (info@oudhloft.nl, categorie Huis en tuin of Winkelen). Bio: "Handgemaakt houten keukengerei 🌿 Gemaakt in Tanger, verstuurd vanuit Amsterdam". Elke Reel ook op TikTok (ma/wo/vr). Niet "Promoten", nog geen TikTok Shop.
 - Stories: sinds 20 okt alleen op ma/wo/vr om de post te delen (te weinig volgers voor dagelijkse stories).
 
 ## Etsy
