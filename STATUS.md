@@ -38,6 +38,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Nieuw op 17 okt: Opklapbare bijzettafel (jeneverhout), met VAPV-informatie en tariefnummer 940360.
 - Nieuw op 18 okt: Brunch Cadeauset (nr. 29 uit etsy-listings-deel-2), €49. Let op: boomstamplank is er maar 1, ook los verkocht.
 - Geplaatst 19 okt: Borrelset (nr. 30), €89. Let op: foto van de tang bij Borrelset in Shopify heet "serveertang-olijfhout" (mogelijk verkeerde tang). Ritme: 1 listing per dag op Etsy. Morgen (20 okt): Tafelset voor twee (nr. 31), daarna nr. 17-27.
+- Fabrikant/veiligheid (VAPV) bij Marokkaanse producten: opgeslagen fabrikant uit de lijst kiezen. EU-verantwoordelijke: Oudhloft, Descartesstraat 59, 1064 ZB Amsterdam, info@oudhloft.nl. Veiligheidstekst: "Natural wood, suitable for food contact. Not dishwasher or microwave safe. Hand wash only and dry immediately. Oil regularly with food-safe oil. Check the wood regularly for splinters or cracks."
 
 ## Google
 - Merchant Center: ACCOUNTPROBLEEM "Misrepresentation" (gezien 19 okt). Alle 41 producten "Not approved", niet zichtbaar in NL en BE. NIET meteen "I disagree"/review aanvragen. Eerst repareren: contactpagina (gevuld 19 okt ✓), bedrijfsgegevens + telefoon in Merchant Center, verzendinstellingen (✓ 2-4 dagen, 19 okt) en retourbeleid (✓ toegevoegd 19 okt: 14 dagen, per post, klant betaalt), footer "Klantenservice" (✓ 19 okt), claim "gravure" op Zakelijk-pagina checken, identiteit verifiëren. Daarna pas review aanvragen.
