@@ -1,6 +1,8 @@
 # Contentplanning Instagram & Facebook – 20 okt t/m 2 nov
 
-**Ritme:** 3 berichten per week (ma, wo, vr, tussen 19:00 en 21:00, zoals in je dagtaken-checklist), bijna elke dag een story. Zet bij elk bericht "Ook delen op Facebook" aan.
+**Ritme:** 3 berichten per week (ma, wo, vr, tussen 19:00 en 21:00, zoals in je dagtaken-checklist). Zet bij elk bericht "Ook delen op Facebook" aan.
+**Stories (aangepast 20 okt):** met weinig volgers zien bijna alleen volgers je stories. Daarom alleen een story op ma/wo/vr, om je nieuwe post te delen. De "alleen story"-dagen hieronder zijn optioneel. Bij 100 tot 200 volgers weer elke dag.
+**TikTok (nieuw 20 okt):** elke Reel ook op TikTok, dezelfde dag. Maak de video in TikTok zelf met dezelfde foto's, tekst en een trending nummer (niet downloaden van Instagram, dan staat er een logo op). Bijschrift korter, 3 tot 5 hashtags, bijvoorbeeld #handgemaakt #houtenkeukengerei #woodworking #fyp #oudhloft. Niet op "Promoten" klikken, nog geen TikTok Shop.
 **Pinterest:** gewoon doorgaan met 3 pins per dag.
 **Foto's:** uit Shopify (zie de links per product in de webshop). Heb je eigen foto's of video's van Othman, gebruik die dan in plaats daarvan.
 
@@ -13,7 +15,7 @@
 
 ## Week 1
 
-### Dinsdag 20 okt – alleen story
+### Dinsdag 20 okt – alleen story (optioneel, overgeslagen)
 Foto van de honinglepel + vraagsticker: "Wat eet jij als ontbijt op zondag? 🍯"
 
 ### Woensdag 21 okt – Reel: "Even voorstellen"

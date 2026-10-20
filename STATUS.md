@@ -32,6 +32,10 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Canva-collage van het assortiment gemaakt (19 okt): kom, lepel, serveertang + logo. Voor Pinterest of een carrousel; voor een FB-omslag een apart ontwerp "Facebook-omslag" maken (niet "Formaat wijzigen", dat is Pro).
 - FB-groepen: altijd eerst de regels lezen. Kookgroep (19 okt) verbiedt commerciële posts en ongevraagde PB's, dus daar niet plaatsen. Zoeken naar groepen met promotie toegestaan of een promotiedag. Link pas geven als iemand erom vraagt. Max 2 à 3 groepen per dag.
 
+## TikTok
+- Besloten 20 okt: TikTok-bedrijfsaccount "oudhloft" aanmaken (info@oudhloft.nl, categorie Huis en tuin of Winkelen). Bio: "Handgemaakt houten keukengerei 🌿 Gemaakt in Tanger, verstuurd vanuit Amsterdam". Elke Reel ook op TikTok (ma/wo/vr). Niet "Promoten", nog geen TikTok Shop.
+- Stories: sinds 20 okt alleen op ma/wo/vr om de post te delen (te weinig volgers voor dagelijkse stories).
+
 ## Etsy
 - Etsy Ads aan sinds 17 okt, $3 per dag, alle listings. Stand 19 okt (2,5 dag): 501 weergaven, 10 kliks (2%), 0 bestellingen, $4,88 uitgegeven (~$0,49 per klik). Laten lopen, opnieuw bekijken op 31 okt. Meeste weergaven: opklapbare bijzettafel (100). LET OP: ziricote-plank (Mexico, VS) staat LIVE en in Etsy Ads, terwijl prijs/afspraken met maker nog niet rond zijn. Nog beslissen: zo laten of deactiveren + advertentie uit (19 okt overgeslagen).
 - Betaalkaart MasterCard ••••3059, automatische facturatie. Opwaarderen is niet nodig.
