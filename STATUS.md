@@ -23,7 +23,8 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 ## Meta (Facebook en Instagram)
 - Domein oudhloft.nl geverifieerd. Toegestane domeinen: oudhloft.nl en shop.app.
 - Betaling vooraf (saldo). Het budget komt via "Saldo toevoegen".
-- Actieve campagne: "Oudhloft – Retargeting – okt". €3 per dag, websitebezoekers 30 dagen, NL en BE, catalogus-carrousel, gestart 17 okt. Resultaten bekijken op 23 okt.
+- Campagne "Oudhloft – Retargeting – okt" (€3/dag, websitebezoekers 30 dagen, NL/BE, gestart 17 okt): op 22 okt besloten te PAUZEREN. Bereik maar ~9 mensen per dag, frequentie 4,2, 0 aankopen. Doelgroep te klein; retargeting brengt geen nieuwe bezoekers. Weer aanzetten bij ~500 bezoekers per maand. Saldo blijft staan. Pixel werkt (PageView, Inhoud bekijken, Winkelwagen actief).
+- Shopify-bezoekers vielen terug van 20-45 per dag naar 2-4 per dag vanaf 20 okt (17 okt: 41 bezoeken via Facebook op één dag).
 - Oude testcampagnes verwijderd. Twee "[Olijf olie uit ouzzane]"-campagnes staan uit en zijn niet te verwijderen. Laten staan en NOOIT op "Controleren en publiceren" (bovenaan) klikken.
 - Productaggen op Instagram werkt. Instagram-winkel ("Winkel" bij de highlights) is actief, gevuld vanuit de Shopify-catalogus.
 - Geen tabblad "Winkel" op de Facebook-pagina (gecontroleerd 17 okt), wel op Instagram. De catalogus (44 producten via Shopify-kanaal "Facebook & Instagram") werkt wel voor advertenties en Instagram-tags. Niet nodig om dit verder uit te zoeken.
