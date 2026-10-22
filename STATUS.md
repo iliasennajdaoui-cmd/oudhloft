@@ -65,6 +65,8 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Vier borden: Houten keukengerei, Serveerplanken & borrelplanken, Houten kommen & borden, Cadeau-ideeën voor de feestdagen.
 - Elke dag 3 producten bewaren (1 foto per pin, met titel, beschrijving, link en getagde onderwerpen). Al gepind: brunchset, mes, boomstamplank, honinglepel (18 okt), borrelset, kookset, ronde schaal 27 cm (19 okt). Nog geen advertenties.
 - 20 okt gepind: Tafelset voor twee, Saladeset. Citroenpers walnoothout nog doen (later vandaag). Bij foto's met bestandsnaam "hf_" (AI-foto's): "Markeren als door AI aangepast" aanzetten.
+- 22 okt: idee houten cadeaubox (plank + 2 kommetjes + lepel in doos; olie/olijven pas na NVWA-registratie en etiket). Interesse testen met een "Binnenkort"-pin, alleen op Pinterest, link naar oudhloft.nl (nieuwsbrief), AI-foto gemarkeerd, geen prijs of producttag. Na een week opslagen en klikken bekijken (29 okt).
+- Idee: bord "Houten cadeaus voor de feestdagen" met cadeausets en cadeaus onder €25, zelfde product max 1x per week met nieuwe foto/tekst.
 
 ## Ankorstore
 - Winkel open sinds 16 okt, 13 producten. Groothandelsprijzen bewust zo gelaten.
