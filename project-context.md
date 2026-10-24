@@ -3,7 +3,7 @@
 ## Over het bedrijf
 - **Oudhloft** is een webshop in handgemaakt houten keukengerei en woonaccessoires: borden, kommen, schalen, serveerplanken, lepels, citroenpersen, cadeausets en een paar bijzondere stukken (bijzettafel, boekhouder, dienblad).
 - Houtsoorten: jeneverhout, walnoothout, olijfhout, amandelhout, citroenhout (uit Marokko). Nieuw: planken uit Mexico (tzalam, ziricote).
-- Eenmanszaak, Descartesstraat 59, 1064 ZB Amsterdam. KvK 85595438, btw-nummer NL004118870B54. Klantmail: info@oudhloft.nl. Website: oudhloft.nl.
+- Oudhloft is een handelsnaam van Atlas Talent IT (eenmanszaak, eigenaar is mijn broer). Vestigingsadres (KvK): Tasmanstraat 21-2, 1013 PW Amsterdam. Retouradres: Descartesstraat 59, 1064 ZB Amsterdam. KvK 85595438, btw-nummer NL004118870B54. Klantmail: info@oudhloft.nl. Website: oudhloft.nl.
 - Verkoopt in Nederland en België. Ongeveer 35 actieve producten, prijzen van €4,99 (honinglepel) tot €104,95 (tafelset voor twee).
 
 ## Hoe ik geholpen wil worden
