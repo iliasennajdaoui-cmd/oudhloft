@@ -23,7 +23,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 ## Meta (Facebook en Instagram)
 - Domein oudhloft.nl geverifieerd. Toegestane domeinen: oudhloft.nl en shop.app.
 - Betaling vooraf (saldo). Het budget komt via "Saldo toevoegen".
-- Campagne "Oudhloft – Retargeting – okt" (€3/dag, websitebezoekers 30 dagen, NL/BE, gestart 17 okt): op 22 okt besloten te PAUZEREN. Bereik maar ~9 mensen per dag, frequentie 4,2, 0 aankopen. Doelgroep te klein; retargeting brengt geen nieuwe bezoekers. Weer aanzetten bij ~500 bezoekers per maand. Saldo blijft staan. Pixel werkt (PageView, Inhoud bekijken, Winkelwagen actief).
+- Campagne "Oudhloft – Retargeting – okt" (€3/dag, websitebezoekers 30 dagen, NL/BE, gestart 17 okt): op 22 okt besloten te PAUZEREN, gepauzeerd 24 okt. Bereik maar ~9 mensen per dag, frequentie 4,2, 0 aankopen. Doelgroep te klein; retargeting brengt geen nieuwe bezoekers. Weer aanzetten bij ~500 bezoekers per maand. Saldo blijft staan. Pixel werkt (PageView, Inhoud bekijken, Winkelwagen actief).
 - Shopify-bezoekers vielen terug van 20-45 per dag naar 2-4 per dag vanaf 20 okt (17 okt: 41 bezoeken via Facebook op één dag).
 - Oude testcampagnes verwijderd. Twee "[Olijf olie uit ouzzane]"-campagnes staan uit en zijn niet te verwijderen. Laten staan en NOOIT op "Controleren en publiceren" (bovenaan) klikken.
 - Productaggen op Instagram werkt. Instagram-winkel ("Winkel" bij de highlights) is actief, gevuld vanuit de Shopify-catalogus.
@@ -39,12 +39,12 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Stories: sinds 20 okt alleen op ma/wo/vr om de post te delen (te weinig volgers voor dagelijkse stories).
 
 ## Etsy
-- Etsy Ads aan sinds 17 okt, $3 per dag, alle listings. Stand 19 okt (2,5 dag): 501 weergaven, 10 kliks (2%), 0 bestellingen, $4,88 uitgegeven (~$0,49 per klik). Stand 22 okt (16-22 okt): 1.711 weergaven, 24 kliks (1,4%), 0 bestellingen, $8,62 (~$0,36 per klik, ~$1,40 per dag, budget wordt niet opgemaakt). Laten lopen, opnieuw bekijken op 31 okt. Meeste weergaven: opklapbare bijzettafel (100). LET OP: ziricote-plank (Mexico, VS) staat LIVE en in Etsy Ads, terwijl prijs/afspraken met maker nog niet rond zijn. Nog beslissen: zo laten of deactiveren + advertentie uit (19 okt overgeslagen).
+- Etsy Ads aan sinds 17 okt, $3 per dag, alle listings. Stand 19 okt (2,5 dag): 501 weergaven, 10 kliks (2%), 0 bestellingen, $4,88 uitgegeven (~$0,49 per klik). Stand 22 okt (16-22 okt): 1.711 weergaven, 24 kliks (1,4%), 0 bestellingen, $8,62 (~$0,36 per klik, ~$1,40 per dag, budget wordt niet opgemaakt). 24 okt aangepast: Tafelset andere eerste foto; advertentie UIT voor ziricote-plank en producten onder €10. Rest laten lopen, opnieuw bekijken op 31 okt. Meeste weergaven: opklapbare bijzettafel (100). LET OP: ziricote-plank (Mexico, VS) staat LIVE en in Etsy Ads, terwijl prijs/afspraken met maker nog niet rond zijn. Nog beslissen: zo laten of deactiveren + advertentie uit (19 okt overgeslagen).
 - Betaalkaart MasterCard ••••3059, automatische facturatie. Opwaarderen is niet nodig.
 - Nieuw op 17 okt: Opklapbare bijzettafel (jeneverhout), met VAPV-informatie en tariefnummer 940360.
 - Nieuw op 18 okt: Brunch Cadeauset (nr. 29 uit etsy-listings-deel-2), €49. Let op: boomstamplank is er maar 1, ook los verkocht.
 - Geplaatst 19 okt: Borrelset (nr. 30), €89. Let op: foto van de tang bij Borrelset in Shopify heet "serveertang-olijfhout" (mogelijk verkeerde tang). Ritme: 1 listing per dag op Etsy. Geplaatst 20 okt: Tafelset voor twee (nr. 31), €115. Geplaatst 24 okt: Langwerpige houten schaal 44 cm (nr. 20), €29. Nr. 17 (Vijzel) niet bevestigd, nakijken. Volgende: nr. 21 (Organische schaal olijfhout), dan 22-27, 1 per dag.
-- EERSTE ETSY-VERKOOP 24 okt: Soep- en yoghurtkom van jeneverhout (nr. 19). Shopify-voorraad op 0 gezet (was 1). Verstuurd 24 okt.
+- EERSTE ETSY-VERKOOP 24 okt: Soep- en yoghurtkom van jeneverhout (nr. 19). Shopify-voorraad op 0 gezet (was 1). Verstuurd 24 okt. Nieuwe soepkom besteld bij Othman (24 okt). Labelrollen 102x150 direct thermisch (25 mm kern) besteld voor Zebra GK420d.
 - Fabrikant/veiligheid (VAPV) bij Marokkaanse producten: opgeslagen fabrikant uit de lijst kiezen. EU-verantwoordelijke: Oudhloft, Tasmanstraat 21-2, 1013 PW Amsterdam (sinds 24 okt; was Descartesstraat), info@oudhloft.nl. Veiligheidstekst: "Natural wood, suitable for food contact. Not dishwasher or microwave safe. Hand wash only and dry immediately. Oil regularly with food-safe oil. Check the wood regularly for splinters or cracks."
 
 ## Google
