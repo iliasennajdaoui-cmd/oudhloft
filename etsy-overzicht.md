@@ -3,7 +3,7 @@
 Bijgewerkt: 25 okt 2026 (lijst uit Etsy Shop Manager).
 Regel: 1 nieuwe listing per dag. Voorraad op Etsy nooit hoger dan in Shopify (sets delen onderdelen).
 
-## Staat op Etsy (26 listings)
+## Staat op Etsy (27 listings)
 
 | Etsy-ID | Product | Etsy-voorraad | Etsy-prijs | Shopify-voorraad (25 okt) |
 |---|---|---|---|---|
@@ -33,12 +33,13 @@ Regel: 1 nieuwe listing per dag. Voorraad op Etsy nooit hoger dan in Shopify (se
 | 4593698272 | Grote salade- en fruitschaal jeneverhout 19 cm | 10 | €52,00 | 12 |
 | 4593696402 | Fruitschaal jeneverhout met handvatten 54 cm | 2 | €79,00 | 3 |
 | 4593669481 | Bord jeneverhout 15/20/25 cm | 12 | €22-34 | 32 (25 cm: 2) |
+| (nieuw 25 okt) | Serveerplank jeneverhout 61 cm | 1 | €39,00 | 2 (zit ook in Tafelset) |
 
 Te hoge Etsy-voorraad (25 okt gemeld, nog aanpassen): Brunch-set, live edge plank, Borrelset, serveertang, Saladeset, Kookset, kom walnoothout, langwerpige schaal, olijfhouten schaal, honinglepels, serveerplank. Ziricote deactiveren.
 
 ## Nog niet op Etsy (volgorde voor 1 per dag)
 
-1. Serveerplank jeneverhout 61 cm (teksten: etsy-listings-deel-2.html nr. 26)
+1. ~~Serveerplank jeneverhout 61 cm~~ geplaatst 25 okt
 2. Dienblad jeneverhout met golvende rand
 3. Ronde schaal jeneverhout 27 cm (nr. 22)
 4. Bord walnoothout ondiep 20/25 cm (nr. 23)
