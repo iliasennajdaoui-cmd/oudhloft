@@ -75,6 +75,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - 22 okt: idee houten cadeaubox (plank + 2 kommetjes + lepel in doos; olie/olijven pas na NVWA-registratie en etiket). Interesse testen met een "Binnenkort"-pin, alleen op Pinterest, link naar oudhloft.nl (nieuwsbrief), AI-foto gemarkeerd, geen prijs of producttag. Na een week opslagen en klikken bekijken (29 okt).
 - Idee: bord "Houten cadeaus voor de feestdagen" met cadeausets en cadeaus onder €25, zelfde product max 1x per week met nieuwe foto/tekst.
 - Alle producten staan al op Pinterest via de catalogus. Sinds 24 okt: elke dag 3 NIEUWE pins (sfeerfoto + cadeautitel + productlink) op bord "Houten cadeaus voor de feestdagen". 24 okt: Brunch Cadeauset, Borrelset, Opklapbare bijzettafel (+ evt. Kookset/Honinglepel). Zelfde product max 1x per week.
+- 25 okt gepind: Citroenpers citroenhout, Serveerplank 61 cm, Vijzel of Fruitschaal met handvatten.
 
 ## Ankorstore
 - Winkel open sinds 16 okt, 13 producten. Groothandelsprijzen bewust zo gelaten.
