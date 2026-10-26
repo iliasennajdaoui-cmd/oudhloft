@@ -56,3 +56,9 @@
 ## Blog
 - Eerste artikel: "Houten cadeau voor de feestdagen: 5 ideeën" (oudhloft.nl/blogs/nieuws/houten-cadeau-feestdagen), live sinds 18 okt.
 - De link "Blog" in de footer (kolom Informatie) gaat nu direct naar dit artikel. **Bij een tweede artikel: de link terugzetten naar het blogoverzicht /blogs/nieuws.** Bij 3 of meer artikelen "Blog" ook in het hoofdmenu zetten.
+
+## Wat werkt op social media (geleerd 26 okt)
+- Na 1 week nog 0 nieuwe volgers. TikTok gaf ~230 weergaven per post maar bijna geen likes. Facebook-vrienden zijn al uitgenodigd.
+- Volgers komen van video's met mensen, handen en beweging (Othman aan het werk, ik in beeld), een haakje in de eerste 2 seconden en een vraag aan het eind. Niet van productfoto's op wit of prijslijsten.
+- TikTok: 1 video per dag. Volgers komen pas na 10-30 posts. Altijd reageren op reacties.
+- Ideeën en lessen staan in tiktok-ideeen-27okt-2nov.md.
