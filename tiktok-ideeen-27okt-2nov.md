@@ -12,6 +12,11 @@ Elke dag 1 video. Ook als Reel op Instagram (met "Delen op Facebook" aan). Plaat
 - Altijd een trending geluid uit de commerciële bibliotheek (bedrijfsaccount). Ondertiteling aan (Aa › Ondertiteling).
 - AI-foto's ("hf_"-bestanden) als AI markeren. Echte beelden werken beter voor vertrouwen.
 
+## Stand 27 okt (22:18)
+- TikTok: 20 volgers, 3 posts. Fotoreeksen 242 en 223 weergaven.
+- Nieuw geplaatst 27 okt ~22:15: video "Same size, all different" (5 olijfhouten kommen van dezelfde maat, vaste camera, 4 in een vierkant + 1 in het midden erop). Tekst en bijschrift in het Engels. Omslag werd het beginbeeld, niet het eindbeeld: volgende keer omslag kiezen.
+- Nog doen: zelfde video als Reel op Instagram + Facebook (vanuit originele video, niet van TikTok downloaden). Website in TikTok-bio zetten.
+
 ## De 7 video's
 
 ### 1. Di 27 okt – "Ik ben Ilias"
