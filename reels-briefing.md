@@ -29,6 +29,7 @@ Per video wil ik:
 - Werkt niet: prijslijsten en reclametekst, losse productfoto's op wit, weinig posten.
 - TikTok: 1 video per dag. Reels: minstens 3 per week. Volgers komen pas na 10-30 posts.
 - Geen prijzen in de video. Rechtop filmen (9:16), bij daglicht, ondertiteling aan.
+- Video's NIET als gewone video via WhatsApp sturen (wordt slechte kwaliteit). Als Document sturen, of via Quick Share / Google Drive. Filmen in de camera-app, niet in TikTok/Instagram. In TikTok en Instagram "uploaden in hoge kwaliteit" aanzetten.
 - Mijn echte foto's (okt 2026): lange serveerplank met brood en olijven, citroenpers van citroenhout met citroenen en een kan water met munt, stapel borden van jeneverhout, borreltafel met kaarsjes.
 
 ## Regels (eerlijkheid)
