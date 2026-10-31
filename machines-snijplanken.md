@@ -49,4 +49,5 @@ Schuur, garage of bedrijfsruimte. Veel lawaai en stof: niet in een appartement.
 - Tafelzaag Makita 2708 (220V, 1350 W, oud model uit Japan, zaagblad ± 210-216 mm) ← reserve of verkopen
 - Tafelzaag Atika (oranje, met spouwmes en beschermkap) ← HOOFDZAAG. Nog: nieuw zaagblad 40-48 tanden (maat van oud blad aflezen), duwstok, zaagslede maken
 - Schuurmachine (gewone, type nog checken)
+- Afkortzaag
 - Bovenfrees: nog kiezen (opties: oude Makita + ± 30 freesjes €75 via Facebook, Bosch POF 1400 ACE ± €100 via Marktplaats, King Craft 1200 W €25)
