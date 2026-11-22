@@ -21,6 +21,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Collectie "Cadeaus onder €25" heeft sinds 19 okt een afbeelding (banner toonde eerst het Shopify-voorbeeldplaatje). Nog zonder afbeelding: Pollepels, olijfhouten lepel, badplank, olijfhouten plank (0 producten, verbergen of weghalen). Nog checken of deze in een menu staan.
 - Reviews (Judge.me): 3 echte reviews (klanten via andere platforms), gem. 4,67. Judge.me stuurde automatisch reviewverzoeken naar #1002 en #1003; op 24 okt ook een persoonlijke herinnering gemaild. #1001 (Soumaya) was geannuleerd, geen verzoek. Widget-instelling "sample data" geldt alleen voor de editor; storefront toont echte reviews (gecontroleerd).
 - 404-pagina: sectie "Uitgelichte collectie" met Shopify-voorbeeld-T-shirts verborgen (24 okt).
+- 22 nov: 2 nieuwe producten als CONCEPT aangemaakt (zonder foto's): "Kommetje van olijfhout – 13 cm" (handle kommetje-olijfhout-13-cm, varianten Met voetje / Platte bodem, €15, voorraad nog 0 – aantal opvragen) en "Kom van olijfhout – 17 cm" (handle kom-olijfhout-17-cm, €24, voorraad 5). Type Kommen, tags olijfhout/kom. Eigen productfoto's (witte achtergrond, Lightroom) door gebruiker toe te voegen; daarna op Actief zetten.
 
 ## Meta (Facebook en Instagram)
 - Domein oudhloft.nl geverifieerd. Toegestane domeinen: oudhloft.nl en shop.app.
