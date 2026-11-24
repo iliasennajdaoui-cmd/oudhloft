@@ -4,9 +4,10 @@ Stijl: kraft, zwarte of donkerbruine inkt, veel ruimte, één logo. Lettertype r
 
 ## 1. Ronde sluitsticker
 - Maat: rond 45 mm (Canva: aangepast formaat 45 x 45 mm, plus 3 mm afloop rondom = 51 x 51 mm)
-- Materiaal: Natural Bois (kraft), geen veredeling, op rol of vel
+- GEKOZEN 24 nov: optie C = wit papier (mat wit of wit PP), logo in kleur: huisje + "OUDHLOFT", zonder de kleine regel. Drukbestand: drukwerk/sticker-C-45mm-wit-drukbestand.pdf (51 mm incl. 3 mm afloop, 1200 dpi).
+- (Oude plan was Natural Bois kraft met 1 kleur; afgewezen, kleuren vallen weg op kraft.)
 - Aantal: 250
-- Ontwerp: logo in het midden, daaronder:
+- Oorspronkelijk ontwerpidee:
 
 ```
 OUDHLOFT
