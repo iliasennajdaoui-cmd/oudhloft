@@ -22,6 +22,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Reviews (Judge.me): 3 echte reviews (klanten via andere platforms), gem. 4,67. Judge.me stuurde automatisch reviewverzoeken naar #1002 en #1003; op 24 okt ook een persoonlijke herinnering gemaild. #1001 (Soumaya) was geannuleerd, geen verzoek. Widget-instelling "sample data" geldt alleen voor de editor; storefront toont echte reviews (gecontroleerd).
 - 404-pagina: sectie "Uitgelichte collectie" met Shopify-voorbeeld-T-shirts verborgen (24 okt).
 - 22 nov: 2 nieuwe producten. "Kom van olijfhout – 17 cm" (kom-olijfhout-17-cm, €24, voorraad 5) is ACTIEF met eigen foto. "Kommetje van olijfhout – 13 cm" (kommetje-olijfhout-13-cm, varianten Met voetje / Platte bodem, €15, elke variant eigen foto) is ACTIEF sinds 23 nov, voorraad 3 met voetje + 2 platte bodem (verdeling geschat door gebruiker, totaal 5; corrigeren als het anders blijkt). Beide gepubliceerd op Webshop, Shop, Facebook & Instagram, Google & YouTube, Pinterest, TikTok (niet POS/Ankorstore). Nog toevoegen aan Etsy (etsy-overzicht.md).
+- 24 nov: "Kop van walnoothout" (kop-walnoothout, €17, voorraad 3) ACTIEF met 2 eigen foto's, alle kanalen. Kommetje 13 cm en kom 17 cm kregen nieuwe foto's met witte achtergrond. Nog: deze 3 nieuwe producten op Etsy zetten.
 
 ## Meta (Facebook en Instagram)
 - Domein oudhloft.nl geverifieerd. Toegestane domeinen: oudhloft.nl en shop.app.
