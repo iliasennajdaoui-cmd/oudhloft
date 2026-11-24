@@ -7,7 +7,7 @@
 
 ## Etiket olijfolie
 - Ontwerp klaar (origineel 65 x 98 mm). Maten binnen het vlakke deel van de fles: 1 L 55 x 85 mm, 0,5 L 42 x 65 mm, 250 ml 34 x 52 mm.
-- "Organic products from Morocco" vervangen door bijvoorbeeld "Natural products from Morocco" (organic/bio alleen met SKAL-certificaat).
+- BESLOTEN 24 nov: "Organic" gaat eraf. Vervangen door bijvoorbeeld "Natural products from Morocco". Organic/bio/eco zijn beschermd (EU 2018/848) en mogen alleen met certificaat (producent in Marokko gecertificeerd, COI via TRACES, SKAL voor de verkoper). Certificering eventueel later uitzoeken.
 - Nog nodig: achteretiket met de wettelijke informatie (zie checklist hieronder).
 
 ## Checklist wettelijke informatie olijfolie (nog laten controleren)
