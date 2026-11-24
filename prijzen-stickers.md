@@ -11,10 +11,10 @@ Alle prijzen ex btw, tenzij anders vermeld. Bijgehouden vanaf 24 nov 2026.
 - Levering: do 26 / mogelijk vr 27 nov bij upload vóór di 24 nov 14:30
 - Nog checken: prijs Natureflex Wit (biologisch afbreekbaar) ter vergelijking
 
-### 2. Stickers op maat (onbekend formaat/oplage) met matte laminering
-- Prijs totaal: €26,93 ex btw, matte laminering
+### 2. Stickers op maat, 100 stuks, matte laminering
+- Prijs totaal: €26,93 ex btw (€32,59 incl. btw), 100 stuks, matte laminering
+- Formaat en materiaal nog bevestigen (waarschijnlijk eigen formaat, voor de olie-etiketten)
 - Levering: za 28 / mogelijk ma 30 nov bij upload vóór di 24 nov 14:30
-- Let op: formaat, materiaal en oplage van deze prijs nog niet doorgegeven. Aanvullen.
 
 ### 3. Flesetiketten (rechthoek A8/A7/A6, witte folie, glanzend PP)
 - Standaardmaten A8 (74x52), A7 (74x105), A6 (105x148) passen niet op de Beldia-flessen. Gebruik "Eigen formaat stickers op rol" met 55x85 / 42x65 / 34x52 mm. Nog geen prijs.
