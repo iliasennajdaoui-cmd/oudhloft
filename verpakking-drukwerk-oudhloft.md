@@ -66,3 +66,9 @@ Ilias, Oudhloft
 
 ## Offerte Orange Copy (samen met de Beldia-etiketten)
 Zie het WhatsApp-bericht in het gesprek van 24 nov.
+
+## Voorbeeldbeelden (Higgsfield, 24 nov, 6 credits)
+- Sticker op pakket (kraft, houtnerf-logo, "OUDHLOFT / handgemaakt houtwerk"): sterk. In het echte ontwerp het eigen Oudhloft-logo gebruiken, niet het AI-logo.
+- Onderhoudskaartje (voor- en achterkant, gaatje met jutetouw): tekst klopt, schreef-kop werkt mooi. Als basis voor het Canva-ontwerp.
+- Bedankkaartje: AI schreef een eigen tekst ("Wat fijn dat je bij ons hebt gewinkeld… Liefs,") en een nep-QR. Alleen de opmaak overnemen, met onze eigen tekst en een echte QR-code.
+- Dit zijn AI-beelden: niet als echte foto gebruiken in advertenties of op de site zonder AI-label.
