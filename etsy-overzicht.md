@@ -50,5 +50,5 @@ Te hoge Etsy-voorraad (25 okt gemeld, nog aanpassen): Brunch-set, live edge plan
 9. Lepel olijfhout 20 cm
 10. Houten serveerschaal met 5 vakken (los, zonder set) (nr. 27)
 
-## Nieuw 24 nov (door gebruiker geplaatst, details en Etsy-ID's nog aanvullen)
+## Nieuw 24 nov: alle 5 op Etsy geplaatst (bevestigd; Etsy-ID's en prijzen nog aanvullen)
 - Kommetje van olijfhout 13 cm (voetje / platte bodem), Kom van olijfhout 17 cm, Kop van walnoothout, Set van 5 kommen walnoothout, Schaal olijfhout 2 vakken 45 cm. Voorraad op Etsy niet hoger dan Shopify: kommetje 3+2, kom 5, kop 3, set 5, schaal 3.
