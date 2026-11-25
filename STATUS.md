@@ -55,7 +55,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - TODO: Etsy-verzendprofiel aparte regel Verenigde Staten ~€24,95 (nu €12,95 te laag).
 
 ## Google
-- 25 nov Merchant Center: 45 producten goedgekeurd, 0 beperkt, 0 niet goedgekeurd, 0 in behandeling (nieuwe producten al opgepikt). Volgende: Prestaties (klikken/vertoningen) bekijken en checken of gratis vermeldingen actief zijn.
+- 25 nov Merchant Center: 45 producten goedgekeurd, 0 beperkt, 0 niet goedgekeurd, 0 in behandeling (nieuwe producten al opgepikt). Prestaties 28 dagen: 0 productklikken (Shopping), 14 websiteklikken organisch (+55,6%). Gratis vermeldingen staan AAN. Shopping-klikken komen waarschijnlijk langzaam terug na de schorsing; rond 9 dec opnieuw kijken.
 - 26 okt Search Console bijgewerkt: 32 geïndexeerd (was 19 op 16 okt, 10 op 18 okt-meting), 47 niet geïndexeerd (5 redenen; robots.txt = account/login-pagina's, omleiding en canoniek = normaal Shopify, niets doen).
 - 25 okt Search Console zoekwoorden (7 dagen): serveerplank-varianten 37 vertoningen, olijfhout keukengerei 30, handgemaakte cadeaus 9, borrelplank hout 5, houten eetborden 4; 5 klikken, 116 vertoningen, gem. positie 42. Collectie /collections/serveerplanken aangepast: titel "Houten serveerplanken en borrelplanken", nieuwe tekst (zonder bacteriën-claim), SEO-titel en -beschrijving op serveerplank/borrelplank. Idee nog: collectie "Olijfhout keukengerei" (oude collectie olijfhouten-lepel ombouwen), blog "Houten borrelplank kiezen".
 - 25 okt: Search Console-validatie "Gevonden - niet geïndexeerd" loopt (36 pagina's, gestart 24 okt); losse URL-aanvragen niet meer nodig, over een week checken. Overzicht: HTTPS 29 goed, productfragmenten en verkopersvermeldingen 9 geldig / 0 ongeldig.
