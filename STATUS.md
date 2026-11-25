@@ -55,6 +55,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - TODO: Etsy-verzendprofiel aparte regel Verenigde Staten ~€24,95 (nu €12,95 te laag).
 - 25 nov Etsy-statistieken (30 dagen): 543 bezoeken (van ~10/dag eind okt naar ~35/dag), 7 bestellingen, omzet €289,95 (gem. ~€41), conversie 1,3%. Bronnen: Etsy Ads 178, Etsy marketing & SEO (offsite ads) 136, Etsy-app 95, Etsy-zoeken 54, direct 36, overig 32, social 12. 26 favorieten, 9 volgers totaal, 0 recensies, 0 terugkerende kopers, 10 verlaten winkelwagens (Etsy stuurde 11 aanbiedingen, €482 potentieel), 6 steden in 4 landen.
 - 25 nov Etsy Ads (26 okt-25 nov): 26,1K weergaven, 374 klikken (1,4%), 5 bestellingen, omzet $283,23, uitgaven $85,28 (~$2,84/dag, ~$0,23/klik, ~$17/bestelling), ROAS 3,32. 5 van de 7 Etsy-bestellingen kwamen via Ads. Besluit: laten lopen; ROAS onder ~2 = herzien. 25 nov: budget tijdelijk naar $5/dag voor de feestdagen. TERUGZETTEN naar $3/dag na Kerst (rond 27 dec).
+- 25 nov: meegedaan met Etsy Cyberspecials (23 nov-2 dec), 20% korting op producten vanaf ~€25. Aanbieding verlaten winkelwagens van 25% naar 10% gezet (nieuwe code). Bedankje-aanbieding 5% blijft aan.
 
 ## Google
 - 25 nov Merchant Center: 45 producten goedgekeurd, 0 beperkt, 0 niet goedgekeurd, 0 in behandeling (nieuwe producten al opgepikt). Prestaties 28 dagen: 0 productklikken (Shopping), 14 websiteklikken organisch (+55,6%). Gratis vermeldingen staan AAN. Shopping-klikken komen waarschijnlijk langzaam terug na de schorsing; rond 9 dec opnieuw kijken.
