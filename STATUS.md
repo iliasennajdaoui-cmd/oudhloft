@@ -114,3 +114,8 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Etsy: listing voor de VS (ziricote-plank, Engels), staat inmiddels LIVE (gezien 19 okt), met verzendprofiel vanuit Mexico (postcode 06140), verwerkingstijd 5-7 dagen. Nog invullen: afmetingen, verzendkosten, prijs (idee: gratis verzending, kosten in de prijs). Maker nog toevoegen als productiepartner.
 - Marktplaats: ziricote-plank (rood) staat erop voor €89,99.
 - Nog doen als het doorgaat: privacybeleid aanvullen (klantgegevens naar productiepartner in Mexico).
+
+## Nieuw 26 nov (Shopify, nog CONCEPT)
+- Serveerplank van olijfhout met handvat – 35 cm (gid 16027075543380): €34,95 (voorstel, prijs nog bevestigen), voorraad 5, tag serveerplank. Kanalen klaargezet.
+- Cadeauset olijfhout met olijfolie en olijven (gid 16027075576148): €89,99, voorraad 5, type Cadeausets. Concept: olie/olijven pas online na NVWA-registratie en etiket met wettelijke info. Kanalen klaargezet.
+- Jeneverhouten lepel 20 cm: nog niet aangemaakt (foto, prijs en voorraad nodig).
