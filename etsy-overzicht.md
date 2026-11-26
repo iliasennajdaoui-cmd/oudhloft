@@ -8,7 +8,7 @@ Regel: 1 nieuwe listing per dag. Voorraad op Etsy nooit hoger dan in Shopify (se
 | Etsy-ID | Product | Etsy-voorraad | Etsy-prijs | Shopify-voorraad (25 okt) |
 |---|---|---|---|---|
 | 4602297168 | Langwerpige schaal 44 cm | 3 | €33,99 | 2 |
-| 4596753750 | Soep- en yoghurtkom jeneverhout 15 cm | 4 | €28,00 | 0 (10 binnen di 27 okt) |
+| 4596753750 | Soep- en yoghurtkom jeneverhout 15 cm | 4 | €28,00 | 10 (bijgewerkt 26 nov) |
 | 4601245643 | Vijzel met stamper jeneverhout | 1 | €26,99 | 1 |
 | 4599302795 | Tafelset voor twee | 2 | €115,00 | 2 |
 | 4598636669 | Borrelset (schaal 5 vakken, tang, mes) | 3 | €89,99 | 1 |

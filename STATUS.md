@@ -121,3 +121,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Jeneverhouten lepel 20 cm: nog niet aangemaakt (foto, prijs en voorraad nodig).
 - Cadeauset toegevoegd aan Bestsellers (26 nov).
 - LATER BESPREKEN: (1) collectie "olijfhouten lepel" (728692949332) bevat alle olijfhout-producten, hernoemen naar "Olijfhout"? (2) dubbele oude concept "Serveerplank van olijfhout met handvat" (€44,50, staat ook in Bestsellers) weghalen?
+- Soep- en yoghurtkom jeneverhout: Shopify-voorraad 0 -> 10 (26 nov). Nieuwe sfeerfoto's toegevoegd aan kommen, kop, saladeschaal, citroenpers, set 5 kommen (maten gecorrigeerd: 23,5/20/15/12/10 cm), kop (10 x 6,5 cm).
