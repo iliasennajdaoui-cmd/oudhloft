@@ -130,3 +130,5 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
   - Let op: sets delen voorraad met losse producten (soepkom zit in 3 sets: 2+1+2=5 van 10). Voorraad niet automatisch gekoppeld; bij verkoop losse voorraad handmatig aanpassen.
   - Jeneverhouten lepel bestaat nog niet als los product.
   - 26 nov: voorraad alle 4 nieuwe sets op 5 gezet op verzoek gebruiker (soepkom/walnoten kom kunnen tekortschieten; gemeld).
+- 26 nov prijzen olijfhout gelijkgetrokken met jeneverhout (Shopify): kommetje 13 cm €15 -> €22,99; kom 17 cm €24 -> €29,99; serveerplank met handvat €24,99 -> €34,50; organische schaal €16,99 -> €34,99. Sets: Olijfhout €39,95 -> €64,95, Drie kommen €59,95 -> €69,95 (bespaar-zinnen aangepast). ETSY NOG AANPASSEN.
+- Geen doorgestreepte "van"-prijzen gebruiken die nooit gevraagd zijn (Omnibus/ACM: laagste prijs afgelopen 30 dagen).
