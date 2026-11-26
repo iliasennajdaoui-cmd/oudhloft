@@ -132,3 +132,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
   - 26 nov: voorraad alle 4 nieuwe sets op 5 gezet op verzoek gebruiker (soepkom/walnoten kom kunnen tekortschieten; gemeld).
 - 26 nov prijzen olijfhout gelijkgetrokken met jeneverhout (Shopify): kommetje 13 cm €15 -> €22,99; kom 17 cm €24 -> €29,99; serveerplank met handvat €24,99 -> €34,50; organische schaal €16,99 -> €34,99. Sets: Olijfhout €39,95 -> €64,95, Drie kommen €59,95 -> €69,95 (bespaar-zinnen aangepast). ETSY NOG AANPASSEN.
 - Geen doorgestreepte "van"-prijzen gebruiken die nooit gevraagd zijn (Omnibus/ACM: laagste prijs afgelopen 30 dagen).
+- Olijfolie-set: doorgestreepte prijs €109,95 ingesteld (gebruiker zegt dat set eerder €109,95 kostte), actieprijs €89,99 t/m 30 nov. 1 DEC: prijs naar €109,95, doorstreepprijs leeg maken, actiezin bovenaan beschrijving weghalen.
