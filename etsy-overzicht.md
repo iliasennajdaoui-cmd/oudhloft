@@ -56,3 +56,6 @@ Te hoge Etsy-voorraad (25 okt gemeld, nog aanpassen): Brunch-set, live edge plan
 ## Zoekwoorden aangepast 26 nov (titels + 13 tags)
 Cadeauset (olive oil gift set vooraan), fruitschaal 54 cm (wooden fruit bowl / dough bowl), set 5 kommen walnoot (walnut wood bowl set / nesting bowls), serveerplank jeneverhout (charcuterie board), kop walnoot (wooden mug / kuksa). Regel: eerst WAT het is, dan de houtsoort. Tags max 20 tekens, plakken met komma's.
 CHECK rond 15 dec: Etsy Statistieken > listing > Zoektermen. Komen de nieuwe woorden terug?
+
+## Nieuwe cadeausets voor Etsy (26 nov, teksten in etsy/Oudhloft-Etsy-cadeausets.pdf)
+1 per dag plaatsen: Diner voor twee (Etsy €149,95), Drie kommen (€74,95), Olijfhout-set (€69,95), Ontbijt voor één (€59,95). Voorraad Etsy nooit hoger dan echte voorraad (soepkommen/walnoten kom gedeeld).
