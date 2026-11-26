@@ -129,3 +129,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
   - Ontbijt voor één (bord 20 cm, soepkom, jeneverhouten lepel) €54,95, voorraad 2 (16027219984724)
   - Let op: sets delen voorraad met losse producten (soepkom zit in 3 sets: 2+1+2=5 van 10). Voorraad niet automatisch gekoppeld; bij verkoop losse voorraad handmatig aanpassen.
   - Jeneverhouten lepel bestaat nog niet als los product.
+  - 26 nov: voorraad alle 4 nieuwe sets op 5 gezet op verzoek gebruiker (soepkom/walnoten kom kunnen tekortschieten; gemeld).
