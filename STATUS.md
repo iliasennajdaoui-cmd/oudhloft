@@ -119,3 +119,5 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Serveerplank van olijfhout met handvat – 35 cm (gid 16027075543380): €24,99, voorraad 5, tag serveerplank. ACTIEF sinds 26 nov.
 - Cadeauset olijfhout met olijfolie en olijven (gid 16027075576148): €89,99, voorraad 5, type Cadeausets. ACTIEF sinds 26 nov op verzoek gebruiker (NVWA-registratie en wettelijk etiket olie/olijven nog niet geregeld, gewaarschuwd). Alleen EU-verzending: verzendzones checken.
 - Jeneverhouten lepel 20 cm: nog niet aangemaakt (foto, prijs en voorraad nodig).
+- Cadeauset toegevoegd aan Bestsellers (26 nov).
+- LATER BESPREKEN: (1) collectie "olijfhouten lepel" (728692949332) bevat alle olijfhout-producten, hernoemen naar "Olijfhout"? (2) dubbele oude concept "Serveerplank van olijfhout met handvat" (€44,50, staat ook in Bestsellers) weghalen?
