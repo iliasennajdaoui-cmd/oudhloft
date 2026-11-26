@@ -52,3 +52,7 @@ Te hoge Etsy-voorraad (25 okt gemeld, nog aanpassen): Brunch-set, live edge plan
 
 ## Nieuw 24 nov: alle 5 op Etsy geplaatst (bevestigd; Etsy-ID's en prijzen nog aanvullen)
 - Kommetje van olijfhout 13 cm (voetje / platte bodem), Kom van olijfhout 17 cm, Kop van walnoothout, Set van 5 kommen walnoothout, Schaal olijfhout 2 vakken 45 cm. Voorraad op Etsy niet hoger dan Shopify: kommetje 3+2, kom 5, kop 3, set 5, schaal 3.
+
+## Zoekwoorden aangepast 26 nov (titels + 13 tags)
+Cadeauset (olive oil gift set vooraan), fruitschaal 54 cm (wooden fruit bowl / dough bowl), set 5 kommen walnoot (walnut wood bowl set / nesting bowls), serveerplank jeneverhout (charcuterie board), kop walnoot (wooden mug / kuksa). Regel: eerst WAT het is, dan de houtsoort. Tags max 20 tekens, plakken met komma's.
+CHECK rond 15 dec: Etsy Statistieken > listing > Zoektermen. Komen de nieuwe woorden terug?
