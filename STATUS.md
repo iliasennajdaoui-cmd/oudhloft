@@ -122,3 +122,10 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Cadeauset toegevoegd aan Bestsellers (26 nov).
 - LATER BESPREKEN: (1) collectie "olijfhouten lepel" (728692949332) bevat alle olijfhout-producten, hernoemen naar "Olijfhout"? (2) dubbele oude concept "Serveerplank van olijfhout met handvat" (€44,50, staat ook in Bestsellers) weghalen?
 - Soep- en yoghurtkom jeneverhout: Shopify-voorraad 0 -> 10 (26 nov). Nieuwe sfeerfoto's toegevoegd aan kommen, kop, saladeschaal, citroenpers, set 5 kommen (maten gecorrigeerd: 23,5/20/15/12/10 cm), kop (10 x 6,5 cm).
+- 4 nieuwe cadeausets ACTIEF (26 nov), alle kanalen, tags cadeau/cadeauset:
+  - Diner voor twee (saladeschaal, 2 borden 20 cm, 2 soepkommen, 2 jeneverhouten lepels) €139,95, voorraad 2 (gid 16027219886420)
+  - Drie kommen, drie houtsoorten (soepkom jenever, kommetje olijf 13, kom walnoot 15) €59,95, voorraad 1 (walnoten kom maar 1) (16027219919188)
+  - Olijfhout (organische schaal, kommetje 13, walnoten lepel) €39,95, voorraad 2 (16027219951956)
+  - Ontbijt voor één (bord 20 cm, soepkom, jeneverhouten lepel) €54,95, voorraad 2 (16027219984724)
+  - Let op: sets delen voorraad met losse producten (soepkom zit in 3 sets: 2+1+2=5 van 10). Voorraad niet automatisch gekoppeld; bij verkoop losse voorraad handmatig aanpassen.
+  - Jeneverhouten lepel bestaat nog niet als los product.
