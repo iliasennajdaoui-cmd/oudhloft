@@ -149,3 +149,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Dienblad olijfhout golvende rand 30 cm €19,99 (5) ACTIEF (prijs bewust lager dan jeneverhouten dienblad €25).
 - Ovale schaal olijfhout 31 cm €25 (5) ACTIEF.
 - Dienblad en ovale schaal olijfhout: tag serveerplank -> in Serveerplanken. Set van 4 borden jeneverhout 15 cm €79,96 (losse prijs, bewust geen korting) ACTIEF, 5 foto's incl. 3 van los bord. Nog concept zonder foto: set 2 borden 20 cm, set 2 soepkommen, Borrelset walnoot, Ontbijtset walnoot (gebruiker houdt originele prijzen).
+- Set van 2 borden jeneverhout 20 cm €49,98 (5) ACTIEF.
