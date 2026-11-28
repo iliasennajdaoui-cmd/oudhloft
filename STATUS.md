@@ -165,3 +165,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - 5% setkorting op de 4 nieuwe cadeausets (doorstreep = losse prijs + Setvoordeel-zin): Walnoot voor twee €102,55 (107,95), Olijf 3 schalen €75,98 (79,98), Olijf 2 ovale+organische €75,99 (79,99), Olijf voor twee €101,62 (106,97).
 - Dubbel concept Olijfhout voor twee (16035246145876) verwijderd. Cadeauset Ontbijt walnoot: €60,78 met doorstreep €63,98 + Setvoordeel-zin; nog concept, wacht op foto's.
 - Sfeerfoto's keuken toegevoegd: olijfplank met handvat (3), kom olijfhout 17 cm (2), bord jeneverhout (2), serveerplank jeneverhout 61 cm (2).
+- Sfeerfoto's raam: kom olijfhout 17 (2), bord jeneverhout (1), bord walnoothout breed (1), kop walnoot (1), olijfplank handvat (1).
