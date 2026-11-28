@@ -147,3 +147,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Serveerplank walnoot met lang handvat 36x15 (€14,99) / 40x20 (€22,99) / 46x25 (€29,99), 5 per maat, ACTIEF, foto per maat, kleurwaarschuwing licht-donker in tekst.
 - Olijfhouten plank met handvat nu 35x20 €34,99 / 42x17 €44,99 / 57x20 €49,99 (5 elk), foto per maat; oude wandfoto verwijderd. Ronde serveerplank walnoot met handvat 25 cm €14,99 (5) ACTIEF.
 - Dienblad olijfhout golvende rand 30 cm €19,99 (5) ACTIEF (prijs bewust lager dan jeneverhouten dienblad €25).
+- Ovale schaal olijfhout 31 cm €25 (5) ACTIEF.
