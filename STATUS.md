@@ -135,3 +135,9 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Olijfolie-set: doorgestreepte prijs €109,95 ingesteld (gebruiker zegt dat set eerder €109,95 kostte), actieprijs €89,99 t/m 30 nov. 1 DEC: prijs naar €109,95, doorstreepprijs leeg maken, actiezin bovenaan beschrijving weghalen.
 - 26 nov: doorgestreepte prijs = losse prijs samen op 4 nieuwe sets (Diner €171,95, Drie kommen €76,98, Olijfhout €70,98, Ontbijt €62,98), met uitlegregel 'Setvoordeel' bovenaan beschrijving. Jeneverhouten lepel (€13 gerekend) nog als los product aanmaken zodat losse prijs klopt. Bij prijswijziging losse producten: doorstreepprijs sets bijwerken.
 - 26 nov: Cadeaus-collectie: banner (collectie-afbeelding) vervangen door echte foto zwarte doos (fotos/cadeaus-banner-zwarte-doos.jpg), AI-kartonnen doos weg; tekst vernieuwd. Kleine bannertekst 'PUUR HOUT, GEEN PLASTIC' en volgorde blokken zitten in thema (zelf in editor).
+
+## 28 nov
+- Kom van walnoothout 15 cm: €29 -> €19,99 (gelijk aan nieuw kommetje 15 cm). Doorstreepprijs set Drie kommen weggehaald (los nu €67,97 < setprijs €69,95). VOORSTEL set €62,95 met doorstreep €67,97: wacht op akkoord; beschrijving 'Setvoordeel' dan ook aanpassen.
+- ACTIEF: Kommetje van walnoothout 10/12/15 cm (€14,99/16,99/19,99, 5 per maat, foto per maat) en Klein serveerplankje walnoothout met handvat 25 cm (€18,99, voorraad 5).
+- Nog concept, foto's volgen: Serveerplank walnoothout met handvat 32 cm (€23,99) en Cadeauset Walnoot (€87,97, bijna geen setvoordeel: los ca. €88-93).
+- Gebruiker wil dat ik vragen eerst stel voordat ik iets aanpas.
