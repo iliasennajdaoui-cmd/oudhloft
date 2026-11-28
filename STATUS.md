@@ -166,3 +166,7 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Dubbel concept Olijfhout voor twee (16035246145876) verwijderd. Cadeauset Ontbijt walnoot: €60,78 met doorstreep €63,98 + Setvoordeel-zin; nog concept, wacht op foto's.
 - Sfeerfoto's keuken toegevoegd: olijfplank met handvat (3), kom olijfhout 17 cm (2), bord jeneverhout (2), serveerplank jeneverhout 61 cm (2).
 - Sfeerfoto's raam: kom olijfhout 17 (2), bord jeneverhout (1), bord walnoothout breed (1), kop walnoot (1), olijfplank handvat (1).
+- 28 nov: gebruiker zette losse producten op originele (lagere) prijzen. Sets rechtgetrokken: doorstreep = nieuwe losse som, korting 10% voor cadeausets in doos, 15% voor gewone sets. Setvoordeel-zinnen aangepast.
+  Doos (10%): Diner 100,76 (111,95); Drie kommen 49,47 (54,97); Olijf voor twee 81,87 (90,97); Olijf 2 ovale 58,49 (64,99); Olijf 3 schalen 62,99 (69,99); Olijfhout-set 47,68 (52,98); Ontbijt voor een 38,68 (42,98); Walnoot voor twee 95,36 (105,95); Cadeauset Walnoot 79,16 (87,96); Cadeauset Ontbijt walnoot (concept) 57,57 (63,97).
+  Gewoon (15%): Ontbijtset walnoot 44,18 (51,98); Borrelset walnoot 38,22 (44,97); 4 borden 44,17 (51,96); 2 borden 25,48 (29,98); 2 soepkommen 25,48 (29,98).
+  Niet aangepast: olijfolie-set (89,99 / 109,95) en oudere sets (Tafelset, Saladeset, Kookset, Brunch, Borrelset 5 vakken, Set 5 kommen) - inhoud/maten nog nodig. Jeneverhouten lepel gerekend als €13.
