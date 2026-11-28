@@ -144,3 +144,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Drie kommen blijft €69,95 (gebruiker: geen verlaging). Zin 'Setvoordeel €76,98' in beschrijving klopt niet meer: vraag of die weg mag.
 - Serveerplank walnoot 32 cm ACTIEF (€23,99). Cadeauset Walnoot: €79,95 met doorstreep €87,97 + Setvoordeel-zin; nog CONCEPT (vraag of online mag).
 - Cadeauset Walnoot ACTIEF (€79,95, doorstreep €87,97), alle kanalen, in Cadeaus op plek 3 (na Diner en olijfolie-set). Drie kommen: setvoordeel-zin weggehaald, prijs €69,95 zonder doorstreep.
+- Serveerplank walnoot met lang handvat 36x15 (€14,99) / 40x20 (€22,99) / 46x25 (€29,99), 5 per maat, ACTIEF, foto per maat, kleurwaarschuwing licht-donker in tekst.
