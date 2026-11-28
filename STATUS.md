@@ -158,3 +158,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Sets-collectie gepubliceerd op alle kanalen; + Borrelset walnoot (ook in Cadeaus). Totaal 5.
 - Set van 5 kommen walnoot: tag cadeauset weg (uit Cadeaus), in Sets. Sets totaal 6. Let op: Cadeaus-collectie werkt op tag 'cadeauset'.
 - Borrelset walnoot: tag cadeauset weg -> alleen nog in Sets (niet Cadeaus).
+- Sets-collectie: bannerafbeelding = walnoten kommen op plank met lang handvat.
