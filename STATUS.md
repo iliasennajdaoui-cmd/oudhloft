@@ -183,3 +183,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Thema-kopie 'Oudhloft - feestdagen (verzending €50)' (210246795604) gemaakt met alle 3 verzendteksten €50 + dynamische collectiebanner. Publiceren door mij geweigerd; gebruiker moet zelf publiceren via Online winkel > Thema's. Oude live thema 205927973204 blijft bewaard.
 - Thema 'Oudhloft - feestdagen (verzending €50)' (210246795604) is nu LIVE (door gebruiker gepubliceerd). Oud thema 205927973204 bewaard. Verzending €50 overal doorgevoerd en gecontroleerd.
 - Kookset: voorraad bewust op 0 laten (gebruiker).
+- Judge.me: 'Schrijf de eerste review' bij producten zonder review; store reviews uitgezet advies (0 winkelreviews); Testimonials Carousel toegevoegd op productpagina door gebruiker. Morgen/1 dec: olijfolie-set naar €109,95 + doorstreep weg + Black Friday-zin weg; Etsy sets 1 per dag.
