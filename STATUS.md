@@ -159,3 +159,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Set van 5 kommen walnoot: tag cadeauset weg (uit Cadeaus), in Sets. Sets totaal 6. Let op: Cadeaus-collectie werkt op tag 'cadeauset'.
 - Borrelset walnoot: tag cadeauset weg -> alleen nog in Sets (niet Cadeaus).
 - Sets-collectie: bannerafbeelding = walnoten kommen op plank met lang handvat.
+- Van Cadeaus naar Sets (tag cadeauset weg): Tafelset voor twee, Saladeset, Brunch cadeauset, Borrelset 5 vakken, Kookset. Sets totaal 11. Cadeaus = alleen de zwarte-doos sets.
