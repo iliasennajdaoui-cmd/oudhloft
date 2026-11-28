@@ -160,3 +160,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Borrelset walnoot: tag cadeauset weg -> alleen nog in Sets (niet Cadeaus).
 - Sets-collectie: bannerafbeelding = walnoten kommen op plank met lang handvat.
 - Van Cadeaus naar Sets (tag cadeauset weg): Tafelset voor twee, Saladeset, Brunch cadeauset, Borrelset 5 vakken, Kookset. Sets totaal 11. Cadeaus = alleen de zwarte-doos sets.
+- Concepten met foto's, wachten op akkoord online: Cadeauset Walnoot voor twee €107,95 (foto 2 toont tang i.p.v. lepels - vraag), Olijfhout dienblad/ovale/organische €79,98, Olijfhout 2 ovale+organische €79,99, NIEUW Cadeauset Olijfhout voor twee (plank 35, 2 kommetjes 13, 2 walnoten lepels) €106,97 = losse prijs, voorraad 5 (gid 16035270820180).
