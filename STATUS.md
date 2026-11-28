@@ -155,3 +155,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Borrelset walnoot: tags serveerplank/kom weg, cadeauset erbij -> nu in Cadeaus (niet Serveerplanken/Kommen). Nieuwe HANDMATIGE collectie 'Sets' (738885173588, leeg) in menu onder Assortiment, tussen Keukengerei en Speciale items. Gebruiker zegt zelf welke producten erin komen (geen cadeausets).
 - Ontbijtset walnoot €49,99 (5) ACTIEF, 5 foto's, in collectie Sets (1e product).
 - Sets-collectie: + set 4 borden 15 cm, set 2 borden 20 cm, set 2 soepkommen (totaal 4).
+- Sets-collectie gepubliceerd op alle kanalen; + Borrelset walnoot (ook in Cadeaus). Totaal 5.
