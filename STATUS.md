@@ -153,3 +153,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Set van 2 soepkommen jeneverhout €49,98 (5) ACTIEF. Borrelset walnoot: 1 foto toegevoegd, nog concept.
 - Borrelset walnoot €46,97 (5) ACTIEF, 5 foto's (set + plank 36 cm + kommetjes 10/12).
 - Borrelset walnoot: tags serveerplank/kom weg, cadeauset erbij -> nu in Cadeaus (niet Serveerplanken/Kommen). Nieuwe HANDMATIGE collectie 'Sets' (738885173588, leeg) in menu onder Assortiment, tussen Keukengerei en Speciale items. Gebruiker zegt zelf welke producten erin komen (geen cadeausets).
+- Ontbijtset walnoot €49,99 (5) ACTIEF, 5 foto's, in collectie Sets (1e product).
