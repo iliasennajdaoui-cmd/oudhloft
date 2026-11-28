@@ -171,3 +171,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
   Gewoon (15%): Ontbijtset walnoot 44,18 (51,98); Borrelset walnoot 38,22 (44,97); 4 borden 44,17 (51,96); 2 borden 25,48 (29,98); 2 soepkommen 25,48 (29,98).
   Niet aangepast: olijfolie-set (89,99 / 109,95) en oudere sets (Tafelset, Saladeset, Kookset, Brunch, Borrelset 5 vakken, Set 5 kommen) - inhoud/maten nog nodig. Jeneverhouten lepel gerekend als €13.
 - Kookset €34,95 (doorstreep 42,98) en Borrelset 5 vakken €79,00 (doorstreep 93,98): prijs gelaten, losse prijs + Setvoordeel-zin erbij. Nog open: Tafelset->75,62, Saladeset->41,63, Brunch->33,97 (wacht akkoord); Set 5 kommen: losse prijs 20 en 23,5 cm onbekend.
+- 15%: Tafelset 75,62 (88,96), Saladeset 41,63 (48,98), Brunch 33,97 (39,97) + Setvoordeel-zin. Alleen Set 5 kommen nog open.
