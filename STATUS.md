@@ -141,3 +141,5 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - ACTIEF: Kommetje van walnoothout 10/12/15 cm (€14,99/16,99/19,99, 5 per maat, foto per maat) en Klein serveerplankje walnoothout met handvat 25 cm (€18,99, voorraad 5).
 - Nog concept, foto's volgen: Serveerplank walnoothout met handvat 32 cm (€23,99) en Cadeauset Walnoot (€87,97, bijna geen setvoordeel: los ca. €88-93).
 - Gebruiker wil dat ik vragen eerst stel voordat ik iets aanpas.
+- Drie kommen blijft €69,95 (gebruiker: geen verlaging). Zin 'Setvoordeel €76,98' in beschrijving klopt niet meer: vraag of die weg mag.
+- Serveerplank walnoot 32 cm ACTIEF (€23,99). Cadeauset Walnoot: €79,95 met doorstreep €87,97 + Setvoordeel-zin; nog CONCEPT (vraag of online mag).
