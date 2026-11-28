@@ -157,3 +157,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Sets-collectie: + set 4 borden 15 cm, set 2 borden 20 cm, set 2 soepkommen (totaal 4).
 - Sets-collectie gepubliceerd op alle kanalen; + Borrelset walnoot (ook in Cadeaus). Totaal 5.
 - Set van 5 kommen walnoot: tag cadeauset weg (uit Cadeaus), in Sets. Sets totaal 6. Let op: Cadeaus-collectie werkt op tag 'cadeauset'.
+- Borrelset walnoot: tag cadeauset weg -> alleen nog in Sets (niet Cadeaus).
