@@ -182,3 +182,4 @@ Laatst bijgewerkt: 17 oktober 2026. Alles hieronder is gecontroleerd en in orde.
 - Thema (Oudhloft - feestdagen, live): templates/product.json 3x €20 -> €50 (USP-regel, verzendpil, verzend-tekstblok incl. BE €8,95). Gecommit, wacht op publiceren (theme_publish, alleen na ja van gebruiker). Theme-toegang werkt nu via connector.
 - Thema-kopie 'Oudhloft - feestdagen (verzending €50)' (210246795604) gemaakt met alle 3 verzendteksten €50 + dynamische collectiebanner. Publiceren door mij geweigerd; gebruiker moet zelf publiceren via Online winkel > Thema's. Oude live thema 205927973204 blijft bewaard.
 - Thema 'Oudhloft - feestdagen (verzending €50)' (210246795604) is nu LIVE (door gebruiker gepubliceerd). Oud thema 205927973204 bewaard. Verzending €50 overal doorgevoerd en gecontroleerd.
+- Kookset: voorraad bewust op 0 laten (gebruiker).
